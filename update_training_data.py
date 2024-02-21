@@ -53,6 +53,6 @@ def download_and_replace_output(repo_url, branch, output_dir):
 if __name__ == "__main__":
     repo_url = "https://github.com/ThaiLe1220/TextRecognitionDataGenerator.git"
     branch = "master"
-    output_dir = "output"
+    output_dir = "output/vi"
 
     download_and_replace_output(repo_url, branch, output_dir)

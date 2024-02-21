@@ -1,6 +1,4 @@
-python create_lmdb_dataset.py output output/labels.txt lmdb_output
-
-python create_lmdb_dataset.py output/labels.txt lmdb_output 
+python create_lmdb_dataset.py . output/vi/labels.txt lmdb_output
 
 
 python create_lmdb_dataset.py output output/labels.txt lmdb_output
@@ -8,10 +6,10 @@ python create_lmdb_dataset.py output output/labels.txt lmdb_output
 
 
 
-python train.py --train_data lmdb_output --valid_data lmdb_output --select_data "/" --batch_ratio 1.0 --Transformation TPS --FeatureExtraction ResNet --SequenceModeling BiLSTM --Prediction Attn --batch_size 2 --data_filtering_off --workers 0 --batch_max_length 80 --num_iter 10 --valInterval 5 --saved_model TPS-ResNet-BiLSTM-Attn.pth
+python train.py --train_data lmdb_output --valid_data lmdb_output --select_data "/" --batch_ratio 1.0 --Transformation TPS --FeatureExtraction ResNet --SequenceModeling BiLSTM --Prediction Attn --batch_size 32 --data_filtering_off --workers 0 --batch_max_length 80 --num_iter 100 --valInterval 5 --saved_model TPS-ResNet-BiLSTM-Attn.pth
 
 
 python demo.py --Transformation TPS --FeatureExtraction ResNet --SequenceModeling BiLSTM --Prediction Attn --image_folder demo_image --saved_model saved_models/TPS-ResNet-BiLSTM-Attn-Seed1111/best_accuracy.pth
 
 
-python test.py --eval_data lmdb_norwegian_data_test --Transformation TPS --FeatureExtraction ResNet --SequenceModeling BiLSTM --Prediction Attn --saved_model saved_models\TPS-ResNet-BiLSTM-Attn-Seed1111/best_accuracy.pth --batch_max_length 70 --workers 0 --batch_size 2 --data_filtering_off
+python test.py --eval_data lmdb_norwegian_data_test --Transformation TPS --FeatureExtraction ResNet --SequenceModeling BiLSTM --Prediction Attn --saved_model saved_models\TPS-ResNet-BiLSTM-Attn-Seed1111/best_accuracy.pth --batch_max_length 80 --workers 0 --batch_size 32 --data_filtering_off
