@@ -3,7 +3,7 @@ import git
 import shutil
 import logging
 
-# Configure logging (same as before)
+# Configure logging
 logging.basicConfig(
     filename="downloader.log",
     filemode="w",
@@ -15,22 +15,27 @@ logging.basicConfig(
 def download_and_replace_output(repo_url, branch, output_dir):
     """Downloads the 'output/vi' directory from a Git repository and replaces the local 'output' directory."""
 
-    repo_dir = "temp_repo"  # Temporary directory for the partial clone
+    repo_dir = "temp_repo"  # Temporary directory for the full clone
 
-    logging.info(f"Cloning repository: {repo_url} (output/vi folder only)")
+    logging.info(f"Cloning repository: {repo_url}")
 
     try:
-        # Sparse checkout: Download only the 'output/vi' directory
-        git.Repo.clone_from(
-            repo_url,
-            repo_dir,
-            branch=branch,
-            no_checkout=True,  # Avoid checking out all files
-            depth=1,  # Limit to one directory level
-            sparse_paths=["output/vi"],
-        )
+        # Full clone of the repository
+        git.Repo.clone_from(repo_url, repo_dir, branch=branch)
 
-        # Clear and replace the local 'output' directory
+        # Delete all files except the "output/vi" directory
+        for item in os.listdir(repo_dir):
+            if item not in (
+                "output",
+                ".git",
+            ):  # Keep the 'output' folder and '.git' for tracking
+                path = os.path.join(repo_dir, item)
+                if os.path.isdir(path):
+                    shutil.rmtree(path)
+                else:
+                    os.remove(path)
+
+        # Replace the local 'output' directory
         if os.path.exists(output_dir):
             shutil.rmtree(output_dir)
         shutil.copytree(os.path.join(repo_dir, "output/vi"), output_dir)
