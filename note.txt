@@ -1,10 +1,7 @@
-python create_lmdb_dataset.py . output/en/labels.txt lmdb_output
+python create_lmdb_dataset.py . output3/en/labels.txt lmdb_output
 
 
-python create_lmdb_dataset.py output output/labels.txt lmdb_output
-
-
-python train.py --train_data lmdb_output --valid_data lmdb_output --select_data "/" --batch_ratio 1.0 --Transformation TPS --FeatureExtraction ResNet --SequenceModeling BiLSTM --Prediction Attn --batch_size 32 --data_filtering_off --workers 8 --batch_max_length 80 --num_iter 100 --valInterval 5 --saved_model TPS-ResNet-BiLSTM-Attn.pth
+python train.py --train_data lmdb_output --valid_data lmdb_output --select_data "/" --batch_ratio 1.0 --Transformation TPS --FeatureExtraction ResNet --SequenceModeling BiLSTM --Prediction Attn --batch_size 64 --data_filtering_off --workers 4 --batch_max_length 300 --num_iter 100 --valInterval 5 --saved_model TPS-ResNet-BiLSTM-Attn.pth
 
 
 python demo.py --Transformation TPS --FeatureExtraction ResNet --SequenceModeling BiLSTM --Prediction Attn --image_folder demo_image --saved_model saved_models/TPS-ResNet-BiLSTM-Attn-Seed1111/best_accuracy.pth

@@ -1,0 +1,1212 @@
+[1/500] Train loss: 5.08676, Valid loss: 5.27927, Elapsed_time: 2.28180
+Current_accuracy : 0.551, Current_norm_ED  : 0.16
+Best_accuracy    : 0.551, Best_norm_ED     : 0.16
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+situationaustraliantheactionis | the                       | 0.0906	False
+televisiontoexcessuniformsbuthehadalsosetthestageforthe | intercompunationalizes    | 0.0000	False
+gononlinearbecomeveryexcitedorangryonthenoseqtoapersonssenseofsmell | intercomplessionalizes    | 0.0000	False
+enoughtoturnacoachandsixorfouriehaveorgetacobonbeannoyedorinabad | intercomplessionalization | 0.0000	False
+getyouroatshavesexualintercoursedifferenceinadvantageoreffect | contralized               | 0.0000	False
+--------------------------------------------------------------------------------
+[5/500] Train loss: 2.84723, Valid loss: 3.99884, Elapsed_time: 58.88440
+Current_accuracy : 0.436, Current_norm_ED  : 0.14
+Best_accuracy    : 0.551, Best_norm_ED     : 0.16
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+heavilyespeciallyinanattempttoescapenaamansrequestin2kings518wheni | contracheringenessessessessessessessessessessessessessessessessessessessessessessessessessessessessessessessessessessessessessessessessessessessessessessessesse | 0.0000	False
+1998timesroundupreadysoyahastakenthephrasederivesfrommatthew2324 | the                       | 0.0279	False
+standingtheendofaraceorcontestpursuea | andistratestersistenting  | 0.0000	False
+prunesandprismsnuttyasafruitcakeapurplepatchouttolunch | contrachedicationalized   | 0.0000	False
+itsorthatsthestoryofmylifeusedto | the                       | 0.0552	False
+--------------------------------------------------------------------------------
+[10/500] Train loss: 2.48714, Valid loss: 4.09399, Elapsed_time: 121.73357
+Current_accuracy : 0.301, Current_norm_ED  : 0.11
+Best_accuracy    : 0.551, Best_norm_ED     : 0.16
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+thesickmanofacountrythatispoliticallyinorwithinyoursightswithinthescope | somerationalizers         | 0.0000	False
+swallowacamelthewordstrainhere | somerationalized          | 0.0000	False
+extendedtomeanatermofimprisonment | and                       | 0.0071	False
+nothingaboutanissuethatshouldbe | interentionalizing        | 0.0000	False
+othisexpressionreferstothetraditionaldevil | the                       | 0.0757	False
+--------------------------------------------------------------------------------
+[15/500] Train loss: 2.46143, Valid loss: 3.66192, Elapsed_time: 183.74992
+Current_accuracy : 0.374, Current_norm_ED  : 0.11
+Best_accuracy    : 0.551, Best_norm_ED     : 0.16
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+rufflegivesomeoneorsomethingagoodrunfor | anyonethereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherear | 0.0000	False
+1994dailymirrortheratesrisewasakickinbeinatthekillbepresentatorbenefitfrom | properationallinghingeneartheartherearedeartherearedeartherearedeartherearedeartherearedeartherearedeartherearedeartherearedeartherearedeartherearedearthereared | 0.0000	False
+waytorapidsuccesshavebeenadopteddirectlyfromdutchbosch | the                       | 0.0278	False
+betterthedevilyouknowitswisertodealbetween | the                       | 0.0458	False
+floridawithhisgirlfriendpullingupstakes | andrownortherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearther | 0.0000	False
+--------------------------------------------------------------------------------
+[20/500] Train loss: 2.44731, Valid loss: 3.85636, Elapsed_time: 253.54866
+Current_accuracy : 0.322, Current_norm_ED  : 0.11
+Best_accuracy    : 0.551, Best_norm_ED     : 0.16
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+thattherestofheralbumisntactuallycovertlythefrenchwordcoulissemeaningi | contrologitionalitionaliticallyousestressomeonetherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereart | 0.0000	False
+beautifuloutwardbutarewithinfullof | the                       | 0.0287	False
+enthusiasmorfashionabouttoreachtheuk | the                       | 0.0350	False
+whoperformedtwelveimmensetasksor | the                       | 0.0337	False
+famousinformal            | anyorthereartheringentinglingstreetheringentinglingstreetheringentinglingstreetheringentinglingstreetheringentinglingstreetheringentinglingstreetheringentinglin | 0.0000	False
+--------------------------------------------------------------------------------
+[25/500] Train loss: 2.41039, Valid loss: 3.65062, Elapsed_time: 317.96174
+Current_accuracy : 0.332, Current_norm_ED  : 0.11
+Best_accuracy    : 0.551, Best_norm_ED     : 0.16
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+extremelyanxiousortenseoaeccinthesenseofnarrowstripof | and                       | 0.0109	False
+ungratefullyinternaloperationsofwhichare | offectionallyouthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthere | 0.0000	False
+likealeechpersistentlyorclingingly | andrownortherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearther | 0.0000	False
+informalofficewasthenamegiventothe | the                       | 0.0415	False
+themsatisfactorilyinformalexperience | intermationalitionalitionalitionalitionalitionalitionalitionalitionalitionalitionalitionalitionalitionalitionalitionalitionalitionalitionalitionalitionalitional | 0.0000	False
+--------------------------------------------------------------------------------
+[30/500] Train loss: 2.42023, Valid loss: 3.65004, Elapsed_time: 394.29049
+Current_accuracy : 0.447, Current_norm_ED  : 0.11
+Best_accuracy    : 0.551, Best_norm_ED     : 0.16
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+thinginformalcallofnatureusedeuphemisticallytorefer | the                       | 0.0843	False
+therightpistolsmithpeachesandcreamofagirlscomplexion | the                       | 0.0740	False
+strongonogoodatexpertinpossessingsudden | belingentheseartheringledentheseartheringledentheseartheringledentheseartheringledentheseartheringledentheseartheringledentheseartheringledentheseartheringleden | 0.0000	False
+tothebankyoursuperiorpositiontoarival | therearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherea | 0.0000	False
+actthegoatseegoatyouractualgaminfashion | andorthereallyouthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearther | 0.0000	False
+--------------------------------------------------------------------------------
+[35/500] Train loss: 2.39157, Valid loss: 3.70775, Elapsed_time: 468.35565
+Current_accuracy : 0.374, Current_norm_ED  : 0.14
+Best_accuracy    : 0.551, Best_norm_ED     : 0.16
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+middleoftheroadexpertathischosenjob | andisenderededinghistonethereardingordandingordandingordandingordandingordandingordandingordandingordandingordandingordandingordandingordandingordandingordandin | 0.0000	False
+ifapointisreachedoraneventoccurscrystal | intersometheringentheseartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearth | 0.0000	False
+havesomethingbritishinformalthemixtureasbeforethesametreatment | the                       | 0.0504	False
+orwomanregardedasthemostbeautiful | instricting               | 0.0000	False
+standonyourdignityinsistonbeingtreatedwithduerespectdinner | andreadedereallyourdereallyourdereallyourdereallyourdereallyourdereallyourdereallyourdereallyourdereallyourdereallyourdereallyourdereallyourdereallyourdereallyo | 0.0000	False
+--------------------------------------------------------------------------------
+[40/500] Train loss: 2.40467, Valid loss: 3.81325, Elapsed_time: 546.44674
+Current_accuracy : 0.447, Current_norm_ED  : 0.13
+Best_accuracy    : 0.551, Best_norm_ED     : 0.16
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+toomanycooksspoilthebrothseecookbuck | and                       | 0.0077	False
+sometimesusedindependentlytomeanthetakingdrugs | thesearthestression       | 0.0000	False
+impoliteuseofthepronounshewhenasideofthecoinatcoin | aprootheringenthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesea | 0.0000	False
+unveileditsownplangreenwithenvyveryenviousorjealous | and                       | 0.0078	False
+alegendintheirownlifetimeaveryfamouslessharmfulorunpleasantoftwobad | thesearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherea | 0.0000	False
+--------------------------------------------------------------------------------
+[45/500] Train loss: 2.38156, Valid loss: 3.71231, Elapsed_time: 615.49884
+Current_accuracy : 0.436, Current_norm_ED  : 0.15
+Best_accuracy    : 0.551, Best_norm_ED     : 0.16
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+thekidwasoutofdangerhebegantoshow | thesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesearthesea | 0.0000	False
+bathbattlestationsusedasacommandor | andownorestreethereallyourseased | 0.0000	False
+inoperationithitmebetweentheeyesiwas1993isidoreokpewhotidesinthelastfew | controllethereallyoursearthestrectionallyourseasedestrectionallyourseasedestrectionallyourseasedestrectionallyourseasedestrectionallyourseasedestrectionallyours | 0.0000	False
+westernworldgetsfatterthepeopleonitsuseitaboutfemaleneighboursofwhomthey | the                       | 0.0640	False
+holdorputagunorapistoltosomeonesdecideimpetuouslytodosomething | the                       | 0.0561	False
+--------------------------------------------------------------------------------
+[50/500] Train loss: 2.37523, Valid loss: 3.60889, Elapsed_time: 697.12355
+Current_accuracy : 0.488, Current_norm_ED  : 0.16
+Best_accuracy    : 0.551, Best_norm_ED     : 0.16
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+whenthebandbeginstoplaywhenmattersbecomeseriousbar | thesearthearthereallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringore | 0.0000	False
+afalsedawnseefalsenotsomeonesdayusedtoconveythat | andrownonethereallyouringouthereallyouringouthereallyouringouthereallyouringouthereallyouringouthereallyouringouthereallyouringouthereallyouringouthereallyourin | 0.0000	False
+theimageinthisphraseandinraiseyour | thesearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherea | 0.0000	False
+theendoftheroadseeendsituationwhereyouarefacedwithtwo | the                       | 0.0412	False
+deliveredbyanindividualmemberataflutter112 | internotheringenthesearthestrickendistonethereallyouring | 0.0000	False
+--------------------------------------------------------------------------------
+[55/500] Train loss: 2.38812, Valid loss: 3.60441, Elapsed_time: 783.59028
+Current_accuracy : 0.551, Current_norm_ED  : 0.13
+Best_accuracy    : 0.551, Best_norm_ED     : 0.16
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+ridebodkintapsomeonesclaret340 | the                       | 0.0610	False
+inthelastresortwhateverelsehappensorisbreakarecordorseveralrecords | thesearthearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereart | 0.0000	False
+phraseisrecordedfrom1526itdoesnottakeapowderdepartquicklyespeciallyin | and                       | 0.0075	False
+stillfeelingtheeffectsofthepreviousevening | and                       | 0.0120	False
+1991alabamagamefishtheyarebredforgivesomeoneorgetthepushorshove | thesearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyourseartheartherea | 0.0000	False
+--------------------------------------------------------------------------------
+[60/500] Train loss: 2.36372, Valid loss: 3.64802, Elapsed_time: 870.20428
+Current_accuracy : 0.613, Current_norm_ED  : 0.14
+Best_accuracy    : 0.613, Best_norm_ED     : 0.16
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+hotunderthecollarangryresentfuloronthehouseofdrinksoramealinabaror | thesearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherea | 0.0000	False
+ioexcessivequantitiesofegginapudding | thesearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereally | 0.0000	False
+throughtheeyeofaneedlehecanplayinthe2003observereuropesoldestcontinually | thesearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherea | 0.0000	False
+doarunnerleavehastilyespeciallytoavoidinarutfollowingafixedespeciallytedious | thesearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherea | 0.0000	False
+anatmospherethatyoucouldcutwithaawkward | thesearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherea | 0.0000	False
+--------------------------------------------------------------------------------
+[65/500] Train loss: 2.33933, Valid loss: 3.75459, Elapsed_time: 961.02991
+Current_accuracy : 0.779, Current_norm_ED  : 0.17
+Best_accuracy    : 0.779, Best_norm_ED     : 0.17
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+orexpedientinformaltobreachthesecurityofacomputer | thesearthereallyourseasedorthereallyourseasedorthereallyourseasedorthereallyourseasedorthereallyourseasedorthereallyourseasedorthereallyourseasedorthereallyours | 0.0000	False
+ithesuninformal           | the                       | 0.0833	False
+countyourchickenstreatsomethingthatgoorappealtothecountrytestpublic | and                       | 0.0167	False
+playthemajorfiguresinthistaleofwoecutthemustardseecut | theseonethereallyourseased | 0.0000	False
+doseincontrovertibleproofasceptic | proversenting             | 0.0000	False
+--------------------------------------------------------------------------------
+[70/500] Train loss: 2.35225, Valid loss: 3.66481, Elapsed_time: 1034.14137
+Current_accuracy : 0.852, Current_norm_ED  : 0.16
+Best_accuracy    : 0.852, Best_norm_ED     : 0.17
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+successfulaustralianeuchredintofallingforthecurrentfools | thesearthearthereallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringore | 0.0000	False
+somethingthatiseternalenduringor | the                       | 0.0526	False
+cashinyourchipsdieinformalthecathasgotsomeonestonguesomeone | thesearthearthereallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringore | 0.0000	False
+windsandarehuggedandcongratulatedbyinthewingsreadytodosomethingortobe | thesearthearthearthearthearthearthearthearthearthearthearthearthearthearthearthearthearthearthearthearthearthearthearthearthearthearthearthearthearthearthearthe | 0.0000	False
+companyandformysinsitooktheminbehindanothervehicletypicallywhile | thesearthereallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyouringoreallyo | 0.0000	False
+--------------------------------------------------------------------------------
+[75/500] Train loss: 2.31911, Valid loss: 3.77439, Elapsed_time: 1128.27430
+Current_accuracy : 0.831, Current_norm_ED  : 0.16
+Best_accuracy    : 0.852, Best_norm_ED     : 0.17
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+importantpersonsummonedthemorwouldilate17thcenturyseethem | thesearthereallyourseasedeasthesearthearthereallyourseasedeasthesearthearthereallyourseasedeasthesearthearthereallyourseasedeasthesearthearthereallyourseasedeas | 0.0000	False
+feastinshakespearesmacbethisthemost | thesearedeasthesearthereallyourseasedearthereallyourseasedearthereallyourseasedearthereallyourseasedearthereallyourseasedearthereallyourseasedearthereallyoursea | 0.0000	False
+odavyjonesisidentifiedintobiasstatementabouttheageofapersonor | thesearthereallyourseasedeallyourseasedeallyourseasedeallyourseasedeallyourseasedeallyourseasedeallyourseasedeallyourseasedeallyourseasedeallyourseasedeallyours | 0.0000	False
+andregardedasmorereliablethanbymarksontreesbychippingoffbitsoftheir | thesearthereallyourseasedeasthesearthearthereallyourseasedeasthesearthearthereallyourseasedeasthesearthearthereallyourseasedeasthesearthearthereallyourseasedeas | 0.0000	False
+cutitoutusedtoasksomeonetostopdoingitchingtocutarug | thesearthereallyourseasedeastereallyourseasedeastereallyourseasedeastereallyourseasedeastereallyourseasedeastereallyourseasedeastereallyourseasedeastereallyours | 0.0000	False
+--------------------------------------------------------------------------------
+[80/500] Train loss: 2.32664, Valid loss: 3.69166, Elapsed_time: 1217.34885
+Current_accuracy : 0.925, Current_norm_ED  : 0.17
+Best_accuracy    : 0.925, Best_norm_ED     : 0.17
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+the1930sfruitcakeisalsousedonitsowntoi | andistratedorthereallyourseasthereallyourseasthereallyourseasthereallyourseasthereallyourseasthereallyourseasthereallyourseasthereallyourseasthereallyourseasthe | 0.0000	False
+makesomeoneundergoorbemadetoblowortootyourownhorntalkboastfully | thesearthereallyourseasthereallyourseasthereallyourseasthereallyourseasthereallyourseasthereallyourseasthereallyourseasthereallyourseasthereallyourseasthereally | 0.0000	False
+laughseducationalvaluesinthe1990s | thesearthereallyourseasthereallyourseasthereallyourseasthereallyourseasthereallyourseasthereallyourseasthereallyourseasthereallyourseasthereallyourseasthereally | 0.0000	False
+americaninformalcarefreeexistenceinformal | and                       | 0.0122	False
+merryasagrigseegrigdistinctivespellingsmetalandmettleto | beformallyoursearthereallyouronethereallyouronethereallyouronethereallyouronethereallyouronethereallyouronethereallyouronethereallyouronethereallyouronethereall | 0.0000	False
+--------------------------------------------------------------------------------
+[85/500] Train loss: 2.34515, Valid loss: 3.76405, Elapsed_time: 1309.79136
+Current_accuracy : 0.852, Current_norm_ED  : 0.17
+Best_accuracy    : 0.925, Best_norm_ED     : 0.17
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+cometoaprettypassseepretty | thethereally              | 0.0000	False
+1965harpersbazaarfenwicksnevercenturybritishslanganaustralianvariantisj | thesearthereallyourseatingling | 0.0000	False
+withchinaandwasatranslationofthe | and                       | 0.0137	False
+bythesweatofyourbrowbyyourownhardbeneficialcircumstanceorfactor | thesearthereallyouringorthereallyouringorthereallyouringorthereallyouringorthereallyouringorthereallyouringorthereallyouringorthereallyouringorthereallyouringor | 0.0000	False
+reactionaryuphazelnuttortetodiefor | the                       | 0.0510	False
+--------------------------------------------------------------------------------
+[90/500] Train loss: 2.33965, Valid loss: 3.67811, Elapsed_time: 1381.77711
+Current_accuracy : 0.935, Current_norm_ED  : 0.16
+Best_accuracy    : 0.935, Best_norm_ED     : 0.17
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+inthepenultimateyearofyourtwentiesand | anyonethereasonthereasterpersenting | 0.0000	False
+onafulloranemptystomachhavingorthisphrasecomesfromtheproverb | thesearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyourseartheartherea | 0.0000	False
+mechanicalpumpintowhichasmallquantityj | thesearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereally | 0.0000	False
+abatedgenesis811together  | someonethereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyourseartheartherea | 0.0000	False
+likethedevilorademonwithgreatspeeddiceorenergy | and                       | 0.0152	False
+--------------------------------------------------------------------------------
+[95/500] Train loss: 2.33198, Valid loss: 3.74293, Elapsed_time: 1471.48010
+Current_accuracy : 0.987, Current_norm_ED  : 0.17
+Best_accuracy    : 0.987, Best_norm_ED     : 0.17
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+tackledtheclassicproblemoftrisectinganthereisaflyintheointment | thesearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherea | 0.0000	False
+resultofadisagreementparforthecoursewhatisnormalor | thesearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereally | 0.0000	False
+getorstartoffontherightorwrongfoot | theyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthere | 0.0000	False
+agitationinformalyoungmen1894 | thesearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereally | 0.0000	False
+thatyoudonotthinksomethingisasestablishedsymbolofmutuallove | thesearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereally | 0.0000	False
+--------------------------------------------------------------------------------
+[100/500] Train loss: 2.33635, Valid loss: 3.72389, Elapsed_time: 1565.29968
+Current_accuracy : 0.977, Current_norm_ED  : 0.18
+Best_accuracy    : 0.987, Best_norm_ED     : 0.18
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+blowagasketmouth          | the                       | 0.0811	False
+yourselfcontributeorfailtocontributetodifferentsurroundings | thesearthereallyourseasedestression | 0.0000	False
+setback                   | setback                   | 0.9763	True
+meansviolentwindaccompaniedbyheavy | thesearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereally | 0.0000	False
+getorkeepyoureyeinbecomeorremain | thesearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereally | 0.0000	False
+--------------------------------------------------------------------------------
+[105/500] Train loss: 2.29838, Valid loss: 3.76426, Elapsed_time: 1659.67297
+Current_accuracy : 1.008, Current_norm_ED  : 0.18
+Best_accuracy    : 1.008, Best_norm_ED     : 0.18
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+2000anthonybourdainkitchenconfidential | theseonethereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereall | 0.0000	False
+andamangeralsoholdsfoodforhorsesthepovertytooneofgreatwealth | thesearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereally | 0.0000	False
+referencetosexualactivityconducted | andintormallyourseathereallyourseathereallyourseathereallyourseathereallyourseathereallyourseathereallyourseathereallyourseathereallyourseathereallyourseatherea | 0.0000	False
+manglesubjectsomeonetoaveryheritagepackagingthepastasasetof | thesearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereally | 0.0000	False
+michaelheseltineatthedtithatwillflutter | thesearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereally | 0.0000	False
+--------------------------------------------------------------------------------
+[110/500] Train loss: 2.31760, Valid loss: 3.71118, Elapsed_time: 1758.44332
+Current_accuracy : 1.049, Current_norm_ED  : 0.20
+Best_accuracy    : 1.049, Best_norm_ED     : 0.20
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+theconservativesofasmokeandmirrorsinformalchieflynorthamerican | and                       | 0.0144	False
+forwardlygetdowntobusinessnorthifaturtleisflippedoverontoitsbackitj | thesearthearthereallyourseasedeallyourseasedeallyourseasedeallyourseasedeallyourseasedeallyourseasedeallyourseasedeallyourseasedeallyourseasedeallyourseasedeall | 0.0000	False
+passbyontheothersideavoidhavingnotputitpastsomeonebelievesomeoneto | thesearthearthereallyourseasedestrectivesomeonestrecentingleasedestrectivesomeonestrecentingleasedestrectivesomeonestrecentingleasedestrectivesomeonestrecenting | 0.0000	False
+knowwhereyouradvantagelies | thesearthereallyourseased | 0.0000	False
+ofbritainsmaritimeempirewhenthesafethehomesecretarywilliamwhitelaw | and                       | 0.0173	False
+--------------------------------------------------------------------------------
+[115/500] Train loss: 2.30810, Valid loss: 3.73838, Elapsed_time: 1845.54828
+Current_accuracy : 0.945, Current_norm_ED  : 0.19
+Best_accuracy    : 1.049, Best_norm_ED     : 0.20
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+anunnaturalstateinwhichsomeonecan | thesearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereally | 0.0000	False
+thewanderingprophetremindedhertoofallpreytoseeprey | thenearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereally | 0.0000	False
+someoneparticularlypopularandpraisedforhis | thesearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereally | 0.0000	False
+theburnreferredtoistheburning | themarthereallyourseased  | 0.0000	False
+theballisinsomeonescourt  | thenearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereally | 0.0000	False
+--------------------------------------------------------------------------------
+[120/500] Train loss: 2.31343, Valid loss: 3.75110, Elapsed_time: 1934.94223
+Current_accuracy : 1.008, Current_norm_ED  : 0.20
+Best_accuracy    : 1.049, Best_norm_ED     : 0.20
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+tothewiseifyoudontknowtheplaceimespeciallybybecomingpoorer | thesearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereally | 0.0000	False
+newsfilmunknowntime107fire | thesearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyourseartheart | 0.0000	False
+abrickshortofaloadofapersonstupidironicallytoorofapersonwhohasdone | someonestressionandereallyourseasoreallyourseasoreallyourseasoreallyourseasoreallyourseasoreallyourseasoreallyourseasoreallyourseasoreallyourseasoreallyourseaso | 0.0000	False
+potatodisagreementordisputewithwords | pressionalitionallyourseasthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereall | 0.0000	False
+othisexpressionwasusedbychaucerinearlierlate16thcenturytolate17thcentury | thesearthearthereallyourseasoreallyourseasoreallyourseasoreallyourseasoreallyourseasoreallyourseasoreallyourseasoreallyourseasoreallyourseasoreallyourseasoreall | 0.0000	False
+--------------------------------------------------------------------------------
+[125/500] Train loss: 2.30667, Valid loss: 3.68327, Elapsed_time: 2026.05080
+Current_accuracy : 1.101, Current_norm_ED  : 0.19
+Best_accuracy    : 1.101, Best_norm_ED     : 0.20
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+thepointfromwhichcompetitorshadtostartj | and                       | 0.0136	False
+turngeeseintoswansexaggeratethemeritswasanofficerinthelocalmilitiabeforehe | thesearthearthereallyourseasthereallyourseasthereallyourseasthereallyourseasthereallyourseasthereallyourseasthereallyourseasthereallyourseasthereallyourseasther | 0.0000	False
+nolongerinplayaimsatoncekillsomeonewithorbykindnessspoil | thesearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyourseartheart | 0.0000	False
+obscuredinsomecircumstancesandif | thesearthearthereallyourseasthereallyoursearthearthereallyourseasthereallyoursearthearthereallyourseasthereallyoursearthearthereallyourseasthereallyoursearthear | 0.0000	False
+thisphraseahumorousearly20thbestdependingonthecontext | thesearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyourseartheartherea | 0.0000	False
+--------------------------------------------------------------------------------
+[130/500] Train loss: 2.28225, Valid loss: 3.85211, Elapsed_time: 2123.78150
+Current_accuracy : 1.070, Current_norm_ED  : 0.19
+Best_accuracy    : 1.101, Best_norm_ED     : 0.20
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+meetyourmakerdiehumorousoreuphemisticlikenessofafaceseenonthesurface | thesearthereallyourseethereallyourseethereallyourseethereallyourseethereallyourseethereallyourseethereallyourseethereallyourseethereallyourseethereallyourseethe | 0.0000	False
+broobeonomatopoeicthesensehasevolved | thesenthereallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyo | 0.0000	False
+thebeatentrackatbeatenbereadytoobeysomeonesorders | thesearthereallyourseeformallyoursearthereallyourseeformallyoursearthereallyourseeformallyoursearthereallyourseeformallyoursearthereallyourseeformallyoursearthe | 0.0000	False
+sometimesunenthusiasticaboutsomeorprojectbeshowntolackcredibilityor | thesearthereallyourseeformallyourseepersonesseentheseeling | 0.0000	False
+goodcomradeparexcellenceafrolicsomeministerespeciallyapresbyterian | thesearthereallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionally | 0.0000	False
+--------------------------------------------------------------------------------
+[135/500] Train loss: 2.29932, Valid loss: 3.70671, Elapsed_time: 2214.52145
+Current_accuracy : 1.081, Current_norm_ED  : 0.18
+Best_accuracy    : 1.101, Best_norm_ED     : 0.20
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+john87something           | romanneasestoffilling     | 0.0000	False
+allendsupcompletelyinformal1999selectthegiantdreadlockedrappers | themandereallyourseasoreallyourseasoreallyourseasoreallyourseasoreallyourseasoreallyourseasoreallyourseasoreallyourseasoreallyourseasoreallyourseasoreallyoursea | 0.0000	False
+someoneinformal           | comeonersomeonesseemal    | 0.0000	False
+ilate18thcenturysensebutsincethemidcounciltablearoundwhichamatterwould | thesearthearthereallyourseasorseased | 0.0000	False
+entertaintrytoarouselaughterinanaudience | and                       | 0.0151	False
+--------------------------------------------------------------------------------
+[140/500] Train loss: 2.29874, Valid loss: 3.72815, Elapsed_time: 2306.18307
+Current_accuracy : 1.153, Current_norm_ED  : 0.19
+Best_accuracy    : 1.153, Best_norm_ED     : 0.20
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+opponentswaistlineisagainsttherules | generallyoursearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearther | 0.0000	False
+oliterallyapinkisaplantwithsweetpipingsmellingpinkorwhiteflowersandslender | themartheringereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthere | 0.0000	False
+hislaunderettehispostofficehisnearest | thesearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyourseartheartherea | 0.0000	False
+sixofoneandhalfadozenoftheotherhand | theingorthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthere | 0.0000	False
+menwerearticulatedbytheantiherosomethingisaparodyoradaptationofimmyportertheirwork | thesearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyourseartheart | 0.0000	False
+--------------------------------------------------------------------------------
+[145/500] Train loss: 2.30166, Valid loss: 3.66769, Elapsed_time: 2401.65123
+Current_accuracy : 1.205, Current_norm_ED  : 0.19
+Best_accuracy    : 1.205, Best_norm_ED     : 0.20
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+blackcrossorspotmarkedagainstthenamenostalgicespeciallyanoldpopsong | thesearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyourseartheart | 0.0000	False
+117fullfrightenthelifeoutofseelifefruit | offormallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursea | 0.0000	False
+andclearitsnameandhereinliesatalehoweverludicroustall | thesearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereally | 0.0000	False
+otherteamsintheamericanleaguethemid17thcentury | themartherathereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearth | 0.0000	False
+preventothersfromhavingorusinglikelytoexposeapersontomoraldangerandj | thesearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyoursearthearthereallyourseartheart | 0.0000	False
+--------------------------------------------------------------------------------
+[150/500] Train loss: 2.27323, Valid loss: 3.72072, Elapsed_time: 2500.77175
+Current_accuracy : 1.174, Current_norm_ED  : 0.21
+Best_accuracy    : 1.205, Best_norm_ED     : 0.21
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+tobegintohaveaneffectbrotheriswatchingyouingeorgeorwells | thesearthereallyourseasedingersenting | 0.0000	False
+togethertowardsacommonaimshowsomeonethedoordismissoreject | thesearthereallyourseased | 0.0000	False
+rewardorenjoymentinreturnforyour | the                       | 0.0716	False
+1991jillchurchillafarewelltoyarns | thesearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereally | 0.0000	False
+probablyarosefromadogshabitoflying | and                       | 0.0137	False
+--------------------------------------------------------------------------------
+[155/500] Train loss: 2.26754, Valid loss: 3.76581, Elapsed_time: 2584.48078
+Current_accuracy : 1.257, Current_norm_ED  : 0.20
+Best_accuracy    : 1.257, Best_norm_ED     : 0.21
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+woulddoanythingtopreventitfrombeinatthedeathqbepresentwhena | thesearthearthereallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressio | 0.0000	False
+othesenseofsomeonebeingtrueblue | thesearthearthereallyourseasedenthesearthearthereallyourseasedenthesearthearthereallyourseasedenthesearthearthereallyourseasedenthesearthearthereallyourseaseden | 0.0000	False
+lasttobecaughttookhisorherplacethefirstworldwarwhenitreferredto | thesearthereallyourseasedenthereallyourseasedenthereallyourseasedenthereallyourseasedenthereallyourseasedenthereallyourseasedenthereallyourseasedenthereallyours | 0.0000	False
+ordersareorderscommandsmustbe | thesearthereallyourseasedenthesearthearthereallyourseasedenthesearthearthereallyourseasedenthesearthearthereallyourseasedenthesearthearthereallyourseasedenthese | 0.0000	False
+getthehelloutofescapefromaplaceorthisphrasealludestotheoathtakenby | thesearthereallyourseasedenthereallyourseasedenthereallyourseasedenthereallyourseasedenthereallyourseasedenthereallyourseasedenthereallyourseasedenthereallyours | 0.0000	False
+--------------------------------------------------------------------------------
+[160/500] Train loss: 2.26929, Valid loss: 3.87611, Elapsed_time: 2679.30277
+Current_accuracy : 1.236, Current_norm_ED  : 0.21
+Best_accuracy    : 1.257, Best_norm_ED     : 0.21
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+giveuptheghostseeghosttheglovesareofforwiththeglovesoffor | thesearthereallyourseethereallyourseethereallyourseethereallyourseethereallyourseethereallyourseethereallyourseethereallyourseethereallyourseethereallyourseethe | 0.0000	False
+mid20thcenturybigfishmayhaveconnotationseitherofsomethingitis | thesearthearthereallyourseatingofformallyourseasorsentingofformallyourseasorsentingofformallyourseasorsentingofformallyourseasorsentingofformallyourseasorsentin | 0.0000	False
+1999coloradoanfortcollinsthatinturnwevegotarightonehereandnomistake | thesectionallyourseatingthesearthearthereallyourseatingofformallyourseatingofformallyourseatingofformallyourseatingofformallyourseatingofformallyourseatingoffor | 0.0000	False
+beallthingstoallmenorpeopleopleasesuggestedbysomeoneelseinformal | thesearthereallyourseatingofformallyourseatingofformallyourseatingofformallyourseatingofformallyourseatingofformallyourseatingofformallyourseatingofformallyours | 0.0000	False
+inthenextfewdaysspadesparegosparebecomeextremelyangryor | thesearthearthereallyourseatingofformallyourseatingofformallyourseatingofformallyourseatingofformallyourseatingofformallyourseatingofformallyourseatingofformall | 0.0000	False
+--------------------------------------------------------------------------------
+[165/500] Train loss: 2.29079, Valid loss: 3.85271, Elapsed_time: 2776.59818
+Current_accuracy : 1.278, Current_norm_ED  : 0.20
+Best_accuracy    : 1.278, Best_norm_ED     : 0.21
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+putsomeoneorsomethingthroughtheir | prosentionsomeonestression | 0.0000	False
+theproverbyoucantteachyourgrandmothertosuckeggshasbeenused | thesearthereallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionally | 0.0000	False
+thelateunpleasantnesssee  | thesearthereally          | 0.0000	False
+atbananaunregenerateconditionunredeemedbydivinegrace | thesearthereallyourseeformallyourseased | 0.0000	False
+remarkmadebycharlesiirecommendingnearorclosetothemarkalmostcorrector | thesearthereallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyours | 0.0000	False
+--------------------------------------------------------------------------------
+[170/500] Train loss: 2.27547, Valid loss: 3.89054, Elapsed_time: 2869.40655
+Current_accuracy : 1.361, Current_norm_ED  : 0.19
+Best_accuracy    : 1.361, Best_norm_ED     : 0.21
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+andcountmyselfakingofinfinitespacethelate19thcenturyandthisphrase | thesearthereallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionally | 0.0000	False
+obuckherereferstothelivelyactionofaamazement | thesearthereallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyours | 0.0000	False
+oinformertimesmanypeoplebelieved | ontracestrectionthereallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepre | 0.0000	False
+othisphrasedevelopedfromtheprimingcreamwouldbesingledouteachmonthfor | themarthereallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyo | 0.0000	False
+untilthemid20thcenturythegeneral | thesearthereallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionally | 0.0000	False
+--------------------------------------------------------------------------------
+[175/500] Train loss: 2.25225, Valid loss: 3.84251, Elapsed_time: 2968.39351
+Current_accuracy : 1.257, Current_norm_ED  : 0.20
+Best_accuracy    : 1.361, Best_norm_ED     : 0.21
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+beafarcryfrombeverydifferentfromcenturyusslangandisalsofoundasputover | thesearthereallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyours | 0.0000	False
+bringhomethebacongoforbrokegowithabangfromgotowhoa | therestressionallyoursessessionallyoursessessionallyoursessessionallyoursessessionallyoursessessionallyoursessessionallyoursessessionallyoursessessionallyourses | 0.0000	False
+sendtherightorwrongmessagemakeatakethemickeyteaseorridiculesomeone | thesecondingordandersonsersenthereallyourseeformallyoursearthereallyourseeformallyoursearthereallyourseeformallyoursearthereallyourseeformallyoursearthereallyou | 0.0000	False
+sincethemid16thcenturythisidiom | thesearthereallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyours | 0.0000	False
+usedisproportionatelyforcefulmeanstosomeone | thesearthereallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyours | 0.0000	False
+--------------------------------------------------------------------------------
+[180/500] Train loss: 2.27271, Valid loss: 4.02075, Elapsed_time: 3058.33716
+Current_accuracy : 1.330, Current_norm_ED  : 0.22
+Best_accuracy    : 1.361, Best_norm_ED     : 0.22
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+traditionallyconsideredprostitutestobe | thesenthereallyourseeformal | 0.0000	False
+probablyarosefromadogshabitoflying | andisporting              | 0.0000	False
+ideaofalineofsoldierswithstandinganwhichitisdifficulttoescapeinformal | thesendersomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrect | 0.0000	False
+1991kathleenjoneslearningnottobefirst | thesenthereallyourseeformal | 0.0000	False
+wornonlybyroyalandimperialfamiliesnotknowwheretoputyourselffeeldeeply | thesearthereallyourseeformal | 0.0000	False
+--------------------------------------------------------------------------------
+[185/500] Train loss: 2.24828, Valid loss: 3.84841, Elapsed_time: 3132.76852
+Current_accuracy : 1.319, Current_norm_ED  : 0.21
+Best_accuracy    : 1.361, Best_norm_ED     : 0.22
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+mnopainnogainsufferingisnecessaryin | prosentionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyou | 0.0000	False
+retainsthecharacteristicqualitiesofthatchopishereusedinthe16thcentury | thesentherationallyourseepressionallyourseeffindseepressionallyourseeffindseepressionallyourseeffindseepressionallyourseeffindseepressionallyourseeffindseepress | 0.0000	False
+eatdirtsufferinsultsorhumiliationinformal0losingorhavinglostsignificance | thesearthereallyourseeffindseepressionallyourseeffindseepressionallyourseeffindseepressionallyourseeffindseepressionallyourseeffindseepressionallyourseeffindsee | 0.0000	False
+wornonlybyroyalandimperialfamiliesnotknowwheretoputyourselffeeldeeply | thesearthereallyourseeffindseepressionallyourseeffindseepressionallyourseeffindseepressionallyourseeffindseepressionallyourseeffindseepressionallyourseeffindsee | 0.0000	False
+informalofcomputertechnologybutitwasoriginally | thesearthereallyourseeffindseepressionallyourseeffindseepressionallyourseeffindseepressionallyourseeffindseepressionallyourseeffindseepressionallyourseeffindsee | 0.0000	False
+--------------------------------------------------------------------------------
+[190/500] Train loss: 2.24898, Valid loss: 3.84457, Elapsed_time: 3219.66322
+Current_accuracy : 1.351, Current_norm_ED  : 0.20
+Best_accuracy    : 1.361, Best_norm_ED     : 0.22
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+thedovecotesmostofallotheimagehereisofayoungbirds | thesearthereasonthereasonthereasonthereasonthereasonthereasonthereasonthereasonthereasonthereasonthereasonthereasonthereasonthereasonthereasonthereasonthereason | 0.0000	False
+shieldextendingupfromthebaseofitsbill | prosentionallyourseasorsomeonestranstorthereasonthereasonthereasonthereasonthereasonthereasonthereasonthereasonthereasonthereasonthereasonthereasonthereasonther | 0.0000	False
+hasfailedtotakethebullbythehornsthereby | thesearthearthereallyourseeformal | 0.0000	False
+witchinginformalthewitchinghourmidnight | andisporting              | 0.0000	False
+stationedtokeepalookoutfordangerorwaxlyricalaboutseelyrical | pressionanderingormallyourseasoringormallyourseasoringormallyourseasoringormallyourseasoringormallyourseasoringormallyourseasoringormallyourseasoringormallyours | 0.0000	False
+--------------------------------------------------------------------------------
+[195/500] Train loss: 2.26543, Valid loss: 3.84463, Elapsed_time: 3308.86539
+Current_accuracy : 1.340, Current_norm_ED  : 0.20
+Best_accuracy    : 1.361, Best_norm_ED     : 0.22
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+firsttwopeoplewhosawhimpassedbyonputsomeoneouttopastureforcesomeone | thesearthearthereallyourseeformallyourseeporthesomeonestonethemandoreallyourseeformallyourseeporthesomeonestonethemandoreallyourseeformallyourseeporthesomeonest | 0.0000	False
+thewordcametorefertoashipsbreadthatj | thesearthearthereallyourseeformallyourseeporthesomeonestranstoreallyourseeformallyourseeporthesomeonestranstoreallyourseeformallyourseeporthesomeonestranstoreal | 0.0000	False
+othisexpressionreferstothetraditionaldevil | otherepersonessomeonestonethemandersomeonestonethemandersomeonestonethemandersomeonestonethemandersomeonestonethemandersomeonestonethemandersomeonestonethemande | 0.0000	False
+hatchetmakehaywhilethesunshineswhichdates | theseeporthesomeonestonethemandereallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeformallyourseeform | 0.0000	False
+stakeisapointedwoodenpostusedwithrespondtoasituationbypanickingor | thesecondersomeonestrecentionallyourseasonestratestorthereallyourseasonestratestorthereallyourseasonestratestorthereallyourseasonestratestorthereallyourseasones | 0.0000	False
+--------------------------------------------------------------------------------
+[200/500] Train loss: 2.25133, Valid loss: 3.85018, Elapsed_time: 3402.76507
+Current_accuracy : 1.371, Current_norm_ED  : 0.22
+Best_accuracy    : 1.371, Best_norm_ED     : 0.22
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+frontofhouseqthepartsofatheatreinatfullcockofafirearmwiththecocklifted | thesearthearthereallyourseeformal | 0.0000	False
+sowyourwildoatsgothroughaperiodofunfavourabletotheotherpersonbetting | themartingofformallyourseeformal | 0.0000	False
+alwayseagertoundertakehardoruntiltheend | theseethereallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyo | 0.0000	False
+moveramoverandshakersomeoneatthecentreofmuddy | thesearthearthereallyourseeformal | 0.0000	False
+vehiclethathasbecomestuck | and                       | 0.0178	False
+--------------------------------------------------------------------------------
+[205/500] Train loss: 2.22552, Valid loss: 3.86366, Elapsed_time: 3470.50238
+Current_accuracy : 1.403, Current_norm_ED  : 0.23
+Best_accuracy    : 1.403, Best_norm_ED     : 0.23
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+oshopsandbarsformerlykeptarecordofrollupyoursleevesseeroll | thesenthereallyourseeformal | 0.0000	False
+habitpiarsma              | thesendersomethingofformallyourseeformal | 0.0000	False
+thetreesimpressioncausetroubleinformal | thesendersomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrect | 0.0000	False
+seestarsseeflashesoflightespeciallyasalearnedoracquiredbeadvantageousor | thesearthereallyourseeformal | 0.0000	False
+needleinahaystackbutthecolorandshape | thesenthereallyourseeformal | 0.0000	False
+--------------------------------------------------------------------------------
+[210/500] Train loss: 2.22725, Valid loss: 3.90084, Elapsed_time: 3546.20269
+Current_accuracy : 1.371, Current_norm_ED  : 0.21
+Best_accuracy    : 1.403, Best_norm_ED     : 0.23
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+ordersareorderscommandsmustbe | theseenedingerenting      | 0.0000	False
+navigationbynumbersasourbeamyflotilladoyournutbeextremelyangryoragitated | thesendersonsentingormal  | 0.0000	False
+hackettandtownshendwomenspellboundthecounterlastseasonletalonepassaball | someonestratestrecentionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyoursee | 0.0000	False
+degreepreventitinformalnookwithyournoseintheairhaughtily | thesendersonsenting       | 0.0000	False
+aboxerscornertooffersupportand | thesendersonsenting       | 0.0000	False
+--------------------------------------------------------------------------------
+[215/500] Train loss: 2.24543, Valid loss: 3.86587, Elapsed_time: 3615.82819
+Current_accuracy : 1.392, Current_norm_ED  : 0.19
+Best_accuracy    : 1.403, Best_norm_ED     : 0.23
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+thenoeshaveitthenegativevotesareinapartastheyweregrowingupandtheir | theseetersomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrect | 0.0000	False
+abuggywasalighthorsedrawnvehiclei | allowithereasonthemanderingeredingeredingeredingeredingeredingeredingeredingeredingeredingeredingeredingeredingeredingeredingeredingeredingeredingeredingereding | 0.0000	False
+beingnspecially           | beingrspocially           | 0.1668	False
+eatdirtsufferinsultsorhumiliationinformal0losingorhavinglostsignificance | theseethereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherear | 0.0000	False
+ridingrounditsedge1988salmanrushdiethesatanicversesquite | and                       | 0.0165	False
+--------------------------------------------------------------------------------
+[220/500] Train loss: 2.21741, Valid loss: 3.90730, Elapsed_time: 3708.13954
+Current_accuracy : 1.423, Current_norm_ED  : 0.22
+Best_accuracy    : 1.423, Best_norm_ED     : 0.23
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+disruptinformal           | disruptinformal           | 0.5186	True
+mentaluneasebyanexcessofthespecifiedqualitycompliment | thesendersomeonestrackingofformal | 0.0000	False
+thecriticandplaywrightjohndennissteponsomeonestoesseetreadon | the                       | 0.0568	False
+inthe1988tourfoundwordssuchasheroickisssomeonesassseekiss | theseetheristhesomeonestratedingordisthesomeonestratedingordisthesomeonestratedingordisthesomeonestratedingordisthesomeonestratedingordisthesomeonestratedingord | 0.0000	False
+1991roddydoylethevanremindmetounpleasantorembarrassing | thesectionsomeonestracestorthereally | 0.0000	False
+--------------------------------------------------------------------------------
+[225/500] Train loss: 2.22308, Valid loss: 4.01926, Elapsed_time: 3785.62876
+Current_accuracy : 1.340, Current_norm_ED  : 0.22
+Best_accuracy    : 1.423, Best_norm_ED     : 0.23
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+permanentlyturnedupespeciallyastyleof | thesectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrec | 0.0000	False
+americaninformal          | americaninformal          | 0.5514	True
+whenbeinghuntedqofapersonhideor | theseepersonsomeonestracesseetorsomeonestracesseetorsomeonestracesseetorsomeonestracesseetorsomeonestracesseetorsomeonestracesseetorsomeonestracesseetorsomeones | 0.0000	False
+crackacribnotmincewords   | crackacribionotrinewards  | 0.0000	False
+othisisaconceptfoundinlatinintheamthevoiceofonecryinginthewilderness | statesomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrections | 0.0000	False
+--------------------------------------------------------------------------------
+[230/500] Train loss: 2.22631, Valid loss: 3.89140, Elapsed_time: 3876.36012
+Current_accuracy : 1.361, Current_norm_ED  : 0.20
+Best_accuracy    : 1.423, Best_norm_ED     : 0.23
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+indifferencetomeiamunaffectedby | roddiercenturestrection   | 0.0000	False
+slowlyinformal            | themartingormal           | 0.0000	False
+castsomethinginsomeonesteethseecastdivulgingconfidentialinformation | themartingormal           | 0.0000	False
+1996emmalathenbrewingupastormthebigracethathecouldlowerhishandsthereby | thesectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrec | 0.0000	False
+asasthenextmanasastheaveragedefeatedusuallyasameansofavoiding | thesectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrec | 0.0000	False
+--------------------------------------------------------------------------------
+[235/500] Train loss: 2.24952, Valid loss: 3.88086, Elapsed_time: 3962.01557
+Current_accuracy : 1.413, Current_norm_ED  : 0.22
+Best_accuracy    : 1.423, Best_norm_ED     : 0.23
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+beinoroftwomindsbeunabletodecideconcentrateonsomething | theseethereallyourseeformal | 0.0000	False
+othisexpressionmakesreferencetotheloseabadreputationevenifitis | thesecondersomeonestrackingofformal | 0.0000	False
+unwantedpersonorthing     | pardackindpossession      | 0.0000	False
+hitchyourwagontoastaroutofaclearbluesky | theseepersonesseemandersomeonestrecention | 0.0000	False
+usinformal01994bbcholidaysatcambridgeyoull | andingordisthesomeonestratestrectionsomeonestranstoreallyourseeformal | 0.0000	False
+--------------------------------------------------------------------------------
+[240/500] Train loss: 2.20201, Valid loss: 3.82868, Elapsed_time: 4033.75248
+Current_accuracy : 1.382, Current_norm_ED  : 0.21
+Best_accuracy    : 1.423, Best_norm_ED     : 0.23
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+1998oldietheconditionsofsalestatethattheirexpressionunhappyordejected | theseepersonesseemersonesseemersonesseemersonesseemersonesseemersonesseemersonesseemersonesseemersonesseemersonesseemersonesseemersonesseemersonesseemersonessee | 0.0000	False
+tomeanfallsmoothlyintoitsallotted | tomannformallyoursellanderseally | 0.0000	False
+someoneisnotasferociousastheyappeartouchbasebrieflymakeorrenewcontact | theseepersonesseemandersomeonestrecentionallyourseepressionallyourseeformal | 0.0000	False
+hitthebottlewashyourhandsofinyourcupsdrinklikeafishembarrassmentshameand | theseepersonesseemersenseeffreened | 0.0000	False
+writeyourownticketdictateyourown17thcenturyproverbcollectionreferringto | theseepersonesseemarestrecentionallyourseeformal | 0.0000	False
+--------------------------------------------------------------------------------
+[245/500] Train loss: 2.18944, Valid loss: 3.87280, Elapsed_time: 4100.00372
+Current_accuracy : 1.496, Current_norm_ED  : 0.23
+Best_accuracy    : 1.496, Best_norm_ED     : 0.23
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+thisexpressionwasoriginallymid20th | thesendersomethingofformal | 0.0000	False
+onethatisinterruptedpartwaythroughhappenedandthatcannotbechangedor | thesearthearthereallyourseeformal | 0.0000	False
+appointedtobereadinthesynagogueonmedescertainimportantdays | someonestrangethereasonthesamethenorthereallyourseadingofformal | 0.0000	False
+ohraincheckisaticketgiventospectatorsarakesprogressaprogressive | thesendersomethingofformal | 0.0000	False
+whoseemstohavemadenorwayandother | and                       | 0.0124	False
+--------------------------------------------------------------------------------
+[250/500] Train loss: 2.21084, Valid loss: 3.83643, Elapsed_time: 4168.21687
+Current_accuracy : 1.496, Current_norm_ED  : 0.22
+Best_accuracy    : 1.496, Best_norm_ED     : 0.23
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+oldwomaninformal299tunnel | theseepersonerationallyourseeformal | 0.0000	False
+thebootisontheotherfootatsixesandsevens | thesenderstortherearthereallyourseeformal | 0.0000	False
+1965edmcbaindollbrownbegansearchingringtheknellofannounceorheraldtheend | theseethereallyourseeformal | 0.0000	False
+hotontheheelsoffollowingcloselyresourceslaterprovedtobeahouseofcards | theseeformal              | 0.0000	False
+benjamininanenterpriseespeciallywhenyouare | theseeformal              | 0.0000	False
+--------------------------------------------------------------------------------
+[255/500] Train loss: 2.25638, Valid loss: 3.80484, Elapsed_time: 4235.09901
+Current_accuracy : 1.527, Current_norm_ED  : 0.22
+Best_accuracy    : 1.527, Best_norm_ED     : 0.23
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+acrosstheboardapplyingtoallreadytoengagetheenemy | theseepersonesseepartingormal | 0.0000	False
+1999cricketerthissummerenglandareonwallabythewarpathagainstnewzealandinafourtest | theseepersonesseemanderstortherearthereallyourseeformal | 0.0000	False
+reactiontoittalktalkthehindlegoffadonkeythat | someonestracestorthereallyourseeformal | 0.0000	False
+knockonwoodseetouchwoodatwoodhead | theseepersonesseenthereallyourseeformal | 0.0000	False
+commitmenttoeitherfreeisusedinthesenseofloveortheobject | theseepersonesseenthestreethereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereart | 0.0000	False
+--------------------------------------------------------------------------------
+[260/500] Train loss: 2.20457, Valid loss: 3.77346, Elapsed_time: 4309.00056
+Current_accuracy : 1.527, Current_norm_ED  : 0.24
+Best_accuracy    : 1.527, Best_norm_ED     : 0.24
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+occupationoraffairsintheearly19thp7arsofsocietywastheenglishtitleofan | theseetersomeonestotherearthereallyourseeformal | 0.0000	False
+riserimmongetortakeariseoutofprovokean | theseetersomeonestothereallyourseeformal | 0.0000	False
+salarieswillbepaidgill    | theseetersomeonestothereallyourseeformal | 0.0000	False
+fishthathasmanagedtoescapeafteralmostsomethingregardedasinducingafalseand | theseepersonesseeted      | 0.0000	False
+practisehomeathome        | theseetersomeonestouthereasonsomeonestouthereasonsomeonestouthereasonsomeonestouthereasonsomeonestouthereasonsomeonestouthereasonsomeonestouthereasonsomeonestou | 0.0000	False
+--------------------------------------------------------------------------------
+[265/500] Train loss: 2.20704, Valid loss: 3.84334, Elapsed_time: 4381.12048
+Current_accuracy : 1.538, Current_norm_ED  : 0.23
+Best_accuracy    : 1.538, Best_norm_ED     : 0.24
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+whatseatingyouorhimorherwhatis | theseepersonesseemanderstothereallyourseeformal | 0.0000	False
+bymoneyintheformofnotesandcoinsfollowingitsgazecandrawtheirown | theseepersonesseemand     | 0.0000	False
+attentivelyinformal       | thesendersomethingofformal | 0.0000	False
+inthisformmid20thcenturybetterbesureinformal | someonestracestorthereallyourseeformal | 0.0000	False
+gluttonbeatenbutcontinuetoofferresistanceagluttonforpunishmentapersonwhois | pressionand               | 0.0000	False
+--------------------------------------------------------------------------------
+[270/500] Train loss: 2.22499, Valid loss: 3.86631, Elapsed_time: 4455.65132
+Current_accuracy : 1.423, Current_norm_ED  : 0.23
+Best_accuracy    : 1.538, Best_norm_ED     : 0.24
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+trousersdowncatchsomeoneinan | theseethereallyourseeformal | 0.0000	False
+sprinkledonthefloorontowhichthe | spreationallyourseeformal | 0.0000	False
+plansorwisheswitharrogantdisregardforwithanotherperson | theseethereallyourseeformal | 0.0000	False
+searchofaroutinehetouchedbasewith | theseethereallyourseeformal | 0.0000	False
+typicallyinaninsensitiveordismissive | offormal                  | 0.0006	False
+--------------------------------------------------------------------------------
+[275/500] Train loss: 2.21139, Valid loss: 3.74385, Elapsed_time: 4521.46235
+Current_accuracy : 1.455, Current_norm_ED  : 0.22
+Best_accuracy    : 1.538, Best_norm_ED     : 0.24
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+thatdidntletmeoffthehooksometimessubstituedformileinside | theseethereally           | 0.0000	False
+uderamous                 | and                       | 0.0307	False
+oshuffleoffthismortalcoilisaquotationj | onstherethereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereallyoursearthereall | 0.0000	False
+statesmanniccolmachiavelli14691527sexualnatureinformal | themainthereally          | 0.0000	False
+crywolfcallforhelpwhenitisnotneeded | thesendersomethingtheseetherearthereally | 0.0000	False
+--------------------------------------------------------------------------------
+[280/500] Train loss: 2.19928, Valid loss: 3.79363, Elapsed_time: 4594.06516
+Current_accuracy : 1.569, Current_norm_ED  : 0.22
+Best_accuracy    : 1.569, Best_norm_ED     : 0.24
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+andallowsomethingtogetoutofcontrolescapedeath | theseeporthereallyourseepressionand | 0.0000	False
+queasyfeelingbecauseyouarenervouspastoffencesorcausesofconflictinformalce | and                       | 0.0183	False
+timewastherewasatime      | and                       | 0.0185	False
+jnumberortothevariousbiblicalpassagesnutshell | and                       | 0.0152	False
+workinghours1998spectatortheprimeministersentourage | andreased                 | 0.0000	False
+--------------------------------------------------------------------------------
+[285/500] Train loss: 2.22731, Valid loss: 3.80708, Elapsed_time: 4667.68211
+Current_accuracy : 1.423, Current_norm_ED  : 0.23
+Best_accuracy    : 1.569, Best_norm_ED     : 0.24
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+resourcekeptsecretandinreserveforusewipetheslatecleanseewipewhenneeded | theseepersondersomeonestrangethereallyourseeforthereallyourseeforthereallyourseeforthereallyourseeforthereallyourseeforthereallyourseeforthereallyourseeforthere | 0.0000	False
+theirguidelineswillonlyhaveaneffecttheywhichcoinscanbedroppedmayalsobe | theseethereallyourseeforthereallyourseeforthereallyourseeforthereallyourseeforthereallyourseeforthereallyourseeforthereallyourseeforthereallyourseeforthereallyo | 0.0000	False
+whipsoflargequantitiesofaustraliannewwhitezealandbigwhitechiefseechief | theseepersondersomeonestratedinthemaillingthe | 0.0000	False
+phraseisusedspecificallyofthevariousundertheweatherqslightlyunwellin | theseepersondersomeonestratedintheseeted | 0.0000	False
+thesayingisrecordedinmedievalfrenchcentreorheartofanythingextremely | themeanthereallyourseeformal | 0.0000	False
+--------------------------------------------------------------------------------
+[290/500] Train loss: 2.22013, Valid loss: 3.89982, Elapsed_time: 4755.22408
+Current_accuracy : 1.486, Current_norm_ED  : 0.24
+Best_accuracy    : 1.569, Best_norm_ED     : 0.24
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+dosomethingeitherthroughineptitudeorsomethingtotheboneatbone | theseeporthingofthesomeonestrangersonsentingofformal | 0.0000	False
+ofdialectoriginheckisalate19thcomehellorhighwaternomatterwhat | theseeporthingofformal    | 0.0000	False
+gentleman                 | genteman                  | 0.2268	False
+otherpeoplesactionspunchsomeoneslightsoutseelight | deportiningoryouring      | 0.0000	False
+lonesomedoingsomethinginformalbyoronyourlonesomeallaloneinformal | someonestrangersonsentingofformal | 0.0000	False
+--------------------------------------------------------------------------------
+[295/500] Train loss: 2.21659, Valid loss: 3.90942, Elapsed_time: 4825.77855
+Current_accuracy : 1.434, Current_norm_ED  : 0.24
+Best_accuracy    : 1.569, Best_norm_ED     : 0.24
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+mainderivesfromtheoldenglishwordthemilkofhumankindnesscareand | belingandandintheseetheritheringhasthereallyourseeformal | 0.0000	False
+confrontationtypicallyagunbattleordestroyquickly | thesendersonsentingofformal | 0.0000	False
+somethingbusinessnowyouknowyouhavetobeon | indersidentinestratedintheseethereallyourseasthereallyourseethereallyourseasthereallyourseethereallyourseasthereallyourseethereallyourseasthereallyourseethereal | 0.0000	False
+bythe19thcenturyfrenchwriteralexandrej | thesendersonthereallyourseeformal | 0.0000	False
+appearstobetheeasiestquickestor | oversenthenthemandersomethingofformal | 0.0000	False
+--------------------------------------------------------------------------------
+[300/500] Train loss: 2.18644, Valid loss: 3.84660, Elapsed_time: 4894.30280
+Current_accuracy : 1.517, Current_norm_ED  : 0.23
+Best_accuracy    : 1.569, Best_norm_ED     : 0.24
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+apretextoroccasionforthediscussionororunderstandssomethinginformalchieflybritish | themare                   | 0.0001	False
+getupsomeonesnoseirritateorannoynonesomeoneinformal | thesendersonsenting       | 0.0000	False
+ohookinsense1isalongstandingmidpreparationforhermarriagenorthamerican | thesendersonsenting       | 0.0000	False
+wheretheresmucktheresbrassdirtyorusedofrockthateitherdidnotcontaingold | andinthereallyourseeformal | 0.0000	False
+ahardrowtohoeseerow       | akeaddonsomessee          | 0.0000	False
+--------------------------------------------------------------------------------
+[305/500] Train loss: 2.19948, Valid loss: 3.81250, Elapsed_time: 4955.75968
+Current_accuracy : 1.569, Current_norm_ED  : 0.24
+Best_accuracy    : 1.569, Best_norm_ED     : 0.24
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+hatsandorriblemurdertheelementsoftheacktheripperstoryaremeatanddrinktomeeting | themareanderingof         | 0.0000	False
+troubleaceherehasthefigurativemeaningofaj | theseethereallyourseeformal | 0.0000	False
+libertythendadputthetinlidonitbygettinghimself | beinghandsomeonestransedingersonsenthemandersomeonestransedingersonsenthemandersomeonestransedingersonsenthemandersomeonestransedingersonsenthemandersomeonestra | 0.0000	False
+politeinvitationtomoveon  | priditionwhentheeformal   | 0.0000	False
+butimkeepingmyoptionsopeniftheresexhortationtoexpelordismisssomeoneor | themaresomeonestransedingersonsenthereallyourseeformal | 0.0000	False
+--------------------------------------------------------------------------------
+[310/500] Train loss: 2.19573, Valid loss: 3.94957, Elapsed_time: 5022.69384
+Current_accuracy : 1.579, Current_norm_ED  : 0.24
+Best_accuracy    : 1.579, Best_norm_ED     : 0.24
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+defeatbrieftimeinthefreshairarefreshing | thetherestrectionsomeonestratedonestrectionsomeonestratedonestrectionsomeonestratedonestrectionsomeonestratedonestrectionsomeonestratedonestrectionsomeonestrate | 0.0000	False
+referringtothewaytheirgumsrecedewithcaughtifididnotlooksharpikeptoutof | andingordistheseethereallyourseeformal | 0.0000	False
+understandthetruefactsofasituation | thesendersomeonestranspersonestransersenseeformal | 0.0000	False
+winallofagroupofsimilarorrelated | windadagenorropression    | 0.0000	False
+inawhilerahmsawapeepholeinthecloudsopensesameamarvellousorirresistible | comparticallyoursomeonestransenthereallyoursomeonestransenthereallyoursomeonestransenthereallyoursomeonestransenthereallyoursomeonestransenthereallyoursomeonest | 0.0000	False
+--------------------------------------------------------------------------------
+[315/500] Train loss: 2.18286, Valid loss: 3.91059, Elapsed_time: 5097.38131
+Current_accuracy : 1.506, Current_norm_ED  : 0.24
+Best_accuracy    : 1.579, Best_norm_ED     : 0.24
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+wrongtheirpersonaldevelopmentwillsufferproverbrolled | thesendersonsentherestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectionsomeonestratestrectio | 0.0000	False
+statementsorexclamationsinformal | sthereathoreadintorm      | 0.0000	False
+consideredtobeanirishexpressionmeaningj | someonestranstothereally  | 0.0000	False
+itselfcomesfrombuffleatheratypeof | thesendersonsenting       | 0.0000	False
+greatestgivesomeonebondiattacksomeone | thesendersonsenthestrectionsomeonestranstothereally | 0.0000	False
+--------------------------------------------------------------------------------
+[320/500] Train loss: 2.19931, Valid loss: 3.93982, Elapsed_time: 5165.27415
+Current_accuracy : 1.455, Current_norm_ED  : 0.23
+Best_accuracy    : 1.579, Best_norm_ED     : 0.24
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+playfairobserveprinciplesofjusticeavoidplease | thephethellessportofformal | 0.0000	False
+foralargewagonabletocarryabandofmusiciansinaprocessionbargepole | someonestrangersonsenthematersomeonestranstothereallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionall | 0.0000	False
+raceforachangetoraintiresanalysis | thesendersomeonestranstorthereallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionally | 0.0000	False
+yourattempttoachievesomething | proveterathendeadenseeverbattor | 0.0000	False
+racecardhavestartedlifeasearly20thcenturynaval | themaresomeonestranstorethemandersomeonestranstorethemandersomeonestranstorethemandersomeonestranstorethemandersomeonestranstorethemandersomeonestranstoretheman | 0.0000	False
+--------------------------------------------------------------------------------
+[325/500] Train loss: 2.19548, Valid loss: 3.97046, Elapsed_time: 5251.28759
+Current_accuracy : 1.527, Current_norm_ED  : 0.23
+Best_accuracy    : 1.579, Best_norm_ED     : 0.24
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+likearipeplumorripeplumsusedto | thesendersomeonestransthewasthereasonsomeonestransthewasthereasonsomeonestransthewasthereasonsomeonestransthewasthereasonsomeonestransthewasthereasonsomeonestra | 0.0000	False
+seembetterormorepalatablethanitnewzealandinformal | someonestranspersonsomeonestranspersonsomeonestranspersonsomeonestranspersonsomeonestranspersonsomeonestranspersonsomeonestranspersonsomeonestranspersonsomeones | 0.0000	False
+temptfateseetemptachievementsinhisnativearea | thesendersomeonestranstortherearthereally | 0.0000	False
+onaknifeedgeorrazorsedgeinatense | thesendersonsentherestreptionsomeonestranstortherestreethereally | 0.0000	False
+cryfoulproteststronglyaboutarealorthefemalecuckoooftenlaysitseggsin | prosentherestranspersonsportstortherestranspersonsportstortherestranspersonsportstortherestranspersonsportstortherestranspersonsportstortherestranspersonsportst | 0.0000	False
+--------------------------------------------------------------------------------
+[330/500] Train loss: 2.16342, Valid loss: 3.76458, Elapsed_time: 5332.00157
+Current_accuracy : 1.392, Current_norm_ED  : 0.24
+Best_accuracy    : 1.579, Best_norm_ED     : 0.24
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+whodyetcomedownthepikeinallthedayscleanorneatasanewpinextremelyclean | informallytheinthemandering | 0.0000	False
+orobertwhittingtonappliedthismansbestfriendanaffectionateor | theseepersonesseesed      | 0.0000	False
+distractionorannoyancenorthamericanironoutthewrinklesresolveallminor | someonestratedinthesomeonestrated | 0.0000	False
+triedtoenterintothespirit | theseepersonseesseethereally | 0.0000	False
+deepbuttheoriginofthenameisuncertainimustbefiftyifhesaday | theseetheristhesitionsomeonestonethemandsomeonestonethereally | 0.0000	False
+--------------------------------------------------------------------------------
+[335/500] Train loss: 2.18800, Valid loss: 3.99083, Elapsed_time: 5396.31850
+Current_accuracy : 1.558, Current_norm_ED  : 0.23
+Best_accuracy    : 1.579, Best_norm_ED     : 0.24
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+betweenapersonatworkandahorseindifferentstrokesfordifferentfolks | prosectiontheseeporthereallyourseeformal | 0.0000	False
+crazyinformalepicbeowulf  | conseginfforefforeafformallyporthyourfforeallypersofforefformal | 0.0000	False
+ivegotalotonmyplatetoomuchunnecessarymanoeuvrestogaintime | beforespeciallyourseepressionandreasedingersonethereallyourseepressionandreasedingersonethereallyourseepressionandreasedingersonethereallyourseepressionandrease | 0.0000	False
+readilyavailablesomeonetoworkoractmorequicklyorenthusiasticallynorthamerican | themaresomeonestransereallyourseeformal | 0.0000	False
+thickonthegroundseegroundofanypreviousagecouldtellyouathingor | becomethereallyoursomeonestransereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthere | 0.0000	False
+--------------------------------------------------------------------------------
+[340/500] Train loss: 2.19978, Valid loss: 3.78618, Elapsed_time: 5470.51772
+Current_accuracy : 1.579, Current_norm_ED  : 0.22
+Best_accuracy    : 1.579, Best_norm_ED     : 0.24
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+sometimeslikeputtingmyoarinandmycomfortablyintoagrouporsociety | andingordisthereallyourseepressionand | 0.0000	False
+anoldwivestaleseeoldatallordersomethingthatisdifficultto | theseetedandersomethingofformal | 0.0000	False
+passbyontheothersideavoidhavingnotputitpastsomeonebelievesomeoneto | thesendersomeonestransedingerseepartingthemaresomeonestonethereallyourseeformal | 0.0000	False
+strengthorconfidenceafteradefeatorlife | themarestrangereallyourseeformal | 0.0000	False
+cutyourlossesabandonanenterpriseorinthisidiomcutisbeingusedinthe | someonestransedingerseepartingormal | 0.0000	False
+--------------------------------------------------------------------------------
+[345/500] Train loss: 2.18263, Valid loss: 3.79659, Elapsed_time: 5537.15397
+Current_accuracy : 1.610, Current_norm_ED  : 0.23
+Best_accuracy    : 1.610, Best_norm_ED     : 0.24
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+straightfromtheshoulderpassinyourally | oreanorenthereallyourseeparting | 0.0000	False
+contemptuoussoundwithyourlipsknifeedge | constrectiontheseepersonesseethereallyourseeformal | 0.0000	False
+windowofvulnerabilitytheworldisyouroysterpregnancyhaveabunintheoven | andingorthereallyourseeformal | 0.0000	False
+hamletinwhichatroupeofactorsarrivetosaidgratefullythatwouldmakemefeelso | theseepersonesseemandersomeonestrackingoftheseepersonesseemandersomeonestrackingoftheseepersonesseemandersomeonestrackingoftheseepersonesseemandersomeonestracki | 0.0000	False
+itsorthatsthestoryofmylifeusedto | and                       | 0.0171	False
+--------------------------------------------------------------------------------
+[350/500] Train loss: 2.14167, Valid loss: 3.88241, Elapsed_time: 5609.87891
+Current_accuracy : 1.621, Current_norm_ED  : 0.25
+Best_accuracy    : 1.621, Best_norm_ED     : 0.25
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+activitysixfeetunderseesix | accuressareanderseeformal | 0.0000	False
+sailunderfalsecoloursdisguiseyourtrue | theseeporthereallyourseeformal | 0.0000	False
+aspectreatthefeastseeaghostatthefeast | offareallyourseeformal    | 0.0000	False
+deceitfullyhumorousfoundingfathersusedinparticularofanj | theseepersonserveryourseeformal | 0.0000	False
+rock                      | rock                      | 0.9869	True
+--------------------------------------------------------------------------------
+[355/500] Train loss: 2.17498, Valid loss: 3.85886, Elapsed_time: 5675.63312
+Current_accuracy : 1.527, Current_norm_ED  : 0.24
+Best_accuracy    : 1.621, Best_norm_ED     : 0.25
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+extremefearisasdrasticasphysicalviolenceideadinthewaterwasoriginallyusedofa | theseepersonsenthestrackingthesomeonestracestorthereally | 0.0000	False
+innickinaspecifiedconditionbritish | intersomeonestracestorthesomeonestracestorthereasthereasonsomeonestracestorthereasthereasonsomeonestracestorthereasthereasonsomeonestracestorthereasthereasonsom | 0.0000	False
+withthepedaltothemetalwiththecounttheoryourpenniesbecarefulabout | theseepersonsenthesomeonestrangenthesomeonestrangenthesomeonestrangenthesomeonestrangenthesomeonestrangenthesomeonestrangenthesomeonestrangenthesomeonestrangent | 0.0000	False
+tothelegendthatwhoevercouldundoitenergeticoraccomplishedwaynorth | stateshearthereasthereallyourseeforthereally | 0.0000	False
+inthisexpressionahatterreferstolewis | theseepersonseethereasthereally | 0.0000	False
+--------------------------------------------------------------------------------
+[360/500] Train loss: 2.15737, Valid loss: 3.81115, Elapsed_time: 5750.95500
+Current_accuracy : 1.558, Current_norm_ED  : 0.22
+Best_accuracy    : 1.621, Best_norm_ED     : 0.25
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+aheckofausedforemphasisinvarioustherewaschaosoruproarinformal | theseepersonesseethereasonthesomeonestothereasonthesomeonestothereasonthesomeonestothereasonthesomeonestothereasonthesomeonestothereasonthesomeonestothereasonth | 0.0000	False
+hideyourlightunderabushelkeepquietwithoutanysacredsignificanceandsoholy | theseepersonesseethereasonsomeonestothereasonsomeonestothereasonsomeonestothereasonsomeonestothereasonsomeonestothereasonsomeonestothereasonsomeonestothereasons | 0.0000	False
+getsomeoneoverabarrelgreasethewheels | and                       | 0.0194	False
+aroundthebarmeanasitfillsuptheplace | someonestransestonethereasonsomeonestothereasonsomeonestothereasonsomeonestothereasonsomeonestothereasonsomeonestothereasonsomeonestothereasonsomeonestothereaso | 0.0000	False
+1998sanjidaoconnellangelbirdthisisthebabesinthewoodarecharacters | andingorthereallyourseeformal | 0.0000	False
+--------------------------------------------------------------------------------
+[365/500] Train loss: 2.16885, Valid loss: 3.80137, Elapsed_time: 5839.64985
+Current_accuracy : 1.652, Current_norm_ED  : 0.24
+Best_accuracy    : 1.652, Best_norm_ED     : 0.25
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+badlynorthamericaninformaltheendofthedaytoworkinthevineyard | theseepersonesseemand     | 0.0000	False
+uporoutthewazooingreatquantitiesextremelyusefulorhelpful | andinthereallyourseeformal | 0.0000	False
+hasnowreplacedtheearlierversionaugmenteswarmtotheirroles | theseepersonesseemandereallyourseeformal | 0.0000	False
+abetinvestmentorenterprisenorth | theseepersonsentionallyourseeformal | 0.0000	False
+noideaatallinformalchieflybritishfootthebillseebill | theseepersonestracestorthereallyourseeformal | 0.0000	False
+--------------------------------------------------------------------------------
+[370/500] Train loss: 2.18672, Valid loss: 3.89542, Elapsed_time: 5910.97558
+Current_accuracy : 1.548, Current_norm_ED  : 0.23
+Best_accuracy    : 1.652, Best_norm_ED     : 0.25
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+bottlemeaningnogoodoruselessisthebow | whatthereargingthecontroundersomething | 0.0000	False
+superconductorthatworksatroomsubstituteforthethingspecified | someonestrackingtheseeformal | 0.0000	False
+gowithaswingofapartyorothereventbebombetclivelyandenjoyableinformal | somethingtheseepressionand | 0.0000	False
+sympathizingwithandworkingforthemultiples | theseepersonseethereasthereallyourseeformal | 0.0000	False
+remarkinformallickletsleepingdogslieseesleeping | someonestracked           | 0.0000	False
+--------------------------------------------------------------------------------
+[375/500] Train loss: 2.15099, Valid loss: 4.02854, Elapsed_time: 5992.09987
+Current_accuracy : 1.527, Current_norm_ED  : 0.24
+Best_accuracy    : 1.652, Best_norm_ED     : 0.25
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+hisnovelredgauntletcorrectstartingposition | thesendersomeonespeciallyourseepressionand | 0.0000	False
+beadbeanwasanearly19thcenturyslang | someonespeciallyourseeportofallyourseepressionand | 0.0000	False
+slidingintothedumpereversinceduckling | allygerentheseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseepressionallyourseep | 0.0000	False
+sight                     | sight                     | 0.9799	True
+1998andreaashworthonceinahouseonvireitbedealtwitheventuallyproverb | thesendersomeonestonethereallyourseeformal | 0.0000	False
+--------------------------------------------------------------------------------
+[380/500] Train loss: 2.15662, Valid loss: 3.79007, Elapsed_time: 6061.14982
+Current_accuracy : 1.621, Current_norm_ED  : 0.24
+Best_accuracy    : 1.652, Best_norm_ED     : 0.25
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+theoriginsofjingbanganditsvariantordisorientation | theseethereallyourseeformal | 0.0000	False
+equivalentlikemotherlikedaughteris | gyourdeatherishing        | 0.0000	False
+solongsixofthebestacaningasapunishment | indersomethingsomeonestrangersomeonestracking | 0.0000	False
+1930shaveshotyourbolthavedoneallthatisin | onthereally               | 0.0000	False
+playmerryhellwiththrowintoturmoilcrueltyortyranny | theseepersonessomeonestonethereallyourseeformal | 0.0000	False
+--------------------------------------------------------------------------------
+[385/500] Train loss: 2.18746, Valid loss: 3.85163, Elapsed_time: 6123.48637
+Current_accuracy : 1.579, Current_norm_ED  : 0.22
+Best_accuracy    : 1.652, Best_norm_ED     : 0.25
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+morallybeyondreproachdifficulttobatoncricketatrickyor | thesendersomething        | 0.0000	False
+bosomeventuallybitesitsnurturertheideaj | besomeonestransingordandersomething | 0.0000	False
+informal                  | informal                  | 0.9910	True
+courseofactionthatisclearlygoingtobe | thesendersomeonestransedingersonsomeonestransedingersonsomeonestransedingersonsomeonestransedingersonsomeonestransedingersonsomeonestransedingersonsomeonestrans | 0.0000	False
+sitonthefenceseefencesixtyfour | astonethereasthereasthereallyoursendersonthereallyoursendersonthereallyoursendersonthereallyoursendersonthereallyoursendersonthereallyoursendersonthereallyourse | 0.0000	False
+--------------------------------------------------------------------------------
+[390/500] Train loss: 2.13434, Valid loss: 3.93572, Elapsed_time: 6206.74378
+Current_accuracy : 1.517, Current_norm_ED  : 0.24
+Best_accuracy    : 1.652, Best_norm_ED     : 0.25
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+appointedtobereadinthesynagogueonmedescertainimportantdays | someonestrectionsomeonestracestortherestrectionsomeonestracestortherestrectionsomeonestracestortherestrectionsomeonestracestortherestrectionsomeonestracestorthe | 0.0000	False
+haventtwopenniestorubtogether | thesendersomething        | 0.0000	False
+1990rianmalanmytraitorsheartitsnotinformal | prosentingtheseethereally | 0.0000	False
+sendsetoutyourstalldisplayorshowoff | consthetherestrections    | 0.0000	False
+hatsandorriblemurdertheelementsoftheacktheripperstoryaremeatanddrinktomeeting | somethingtheseeterstortherestrectionsomeonestracestortherestractionsomeonestracestortherestractionsomeonestracestortherestractionsomeonestracestortherestraction | 0.0000	False
+--------------------------------------------------------------------------------
+[395/500] Train loss: 2.15989, Valid loss: 3.76327, Elapsed_time: 6283.63006
+Current_accuracy : 1.527, Current_norm_ED  : 0.19
+Best_accuracy    : 1.652, Best_norm_ED     : 0.25
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+thisexpressionwasoriginallyrafslangj | theseepersonseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseesees | 0.0000	False
+getorgivesomeoneideasbecomeorbeinonbeprivytoasecret | theseepersonseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseesees | 0.0000	False
+churchfestivalwastraditionallyexistsordoingsomethingthathas | theseepersonseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseeseesees | 0.0000	False
+aback1999frankmccourttismanyamanmadehis | andisconsideofandingthe   | 0.0000	False
+transcendingmereachievementthe | thesendersomeonestrackethereased | 0.0000	False
+--------------------------------------------------------------------------------
+[400/500] Train loss: 2.16856, Valid loss: 3.82059, Elapsed_time: 6369.60913
+Current_accuracy : 1.413, Current_norm_ED  : 0.25
+Best_accuracy    : 1.652, Best_norm_ED     : 0.25
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+informalhiding            | theseemand                | 0.0000	False
+haveamindofyourownobecapableofnewinpristinecondition | someonestrackingofallyourseeformal | 0.0000	False
+besaidaboutamatternorthamerican | informal                  | 0.0096	False
+outcomethanexpectedofapersonbethereismanyagoodtuneplayedonanold | theseethereasontheseetersomeonestothereasontheseetersomeonestothereasontheseetersomeonestothereasontheseetersomeonestothereasontheseetersomeonestothereasonthese | 0.0000	False
+dealingssomethingforsuitability | theseepersonserversenthereally | 0.0000	False
+--------------------------------------------------------------------------------
+[405/500] Train loss: 2.15675, Valid loss: 3.72793, Elapsed_time: 6436.38436
+Current_accuracy : 1.465, Current_norm_ED  : 0.25
+Best_accuracy    : 1.652, Best_norm_ED     : 0.25
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+2002guardianforthegoingundergroundwhoarestrongandapplyruthlessself | theseepersonsenthereally  | 0.0000	False
+personistheonewhoappearsridiculousdistinctionandinparticulartovictorsatthej | someonethereasonthereallyourseeformal | 0.0000	False
+onthesquaregotothestakefordoanythingtodefenda | themareanderenthereally   | 0.0000	False
+bookthephrasehasbeenusedinthisbreathehistoryhavealwaysleftmecold | theseepersonthereally     | 0.0000	False
+raceforachangetoraintiresanalysis | theseepersonthereallyourseeforthereally | 0.0000	False
+--------------------------------------------------------------------------------
+[410/500] Train loss: 2.15118, Valid loss: 4.01824, Elapsed_time: 6503.70596
+Current_accuracy : 1.486, Current_norm_ED  : 0.23
+Best_accuracy    : 1.652, Best_norm_ED     : 0.25
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+goorputsomeonethroughthemillbythethoughtofsomething | theseeporthereasontheseeporthereasontheseeporthereasontheseeporthereasontheseeporthereasontheseeporthereasontheseeporthereasontheseeporthereasontheseeporthereas | 0.0000	False
+thisfigurativeuseofhoehasbeeninusei | theseeportoformal         | 0.0000	False
+orotherbenefittheversionwithpikestaffhaddevelopedby | orthereasonthesameonesportionofformal | 0.0000	False
+reamrechargereamsomeonesassorbuttcriticizeor | maverodofasomeonestothereally | 0.0000	False
+putthescrewsonexertstrongpsychological | theseeporthereasontheseeportofactionofformal | 0.0000	False
+--------------------------------------------------------------------------------
+[415/500] Train loss: 2.14899, Valid loss: 3.85130, Elapsed_time: 6580.62609
+Current_accuracy : 1.621, Current_norm_ED  : 0.24
+Best_accuracy    : 1.652, Best_norm_ED     : 0.25
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+mountinganaccidentespeciallydangerousiwerelostonher | andispersonseesed         | 0.0000	False
+asteadyregularpaceinatownorcity | someonestrackingof        | 0.0000	False
+ingenesis4518pharaohtellsjosephstoafaretheewelltoperfection | theseepersonsenting       | 0.0000	False
+fromothersstickatnothingallownothingtodeteryou | informalinginationallyandisthesideofandingorationsomeonesseemand | 0.0000	False
+standkickingitawaybeforetheyhanged | theseepersonsenting       | 0.0000	False
+--------------------------------------------------------------------------------
+[420/500] Train loss: 2.15747, Valid loss: 3.81357, Elapsed_time: 6645.42318
+Current_accuracy : 1.527, Current_norm_ED  : 0.25
+Best_accuracy    : 1.652, Best_norm_ED     : 0.25
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+loseyourorthewaynolongerhaveaclear | haveyoursomeonestothereallyourseeformal | 0.0000	False
+holdthestageseestage      | halddiseasamesassaseage   | 0.0000	False
+severelyimpairsomeonesconfidenceor | theseepersonsenthemasteringorthemakeallyourseeformal | 0.0000	False
+haveyourfeetonthegroundseefootanybodysguessatotallyunpredictable | havesomeonestothereasthereallyourseeformal | 0.0000	False
+childeharoldspilgrimageashavingbeenespeciallysomethingpreviouslykept | someonestothereasonthereallyoursomeonestothereasthereallyoursomeonestothereasthereallyoursomeonestothereasthereallyoursomeonestothereasthereallyoursomeonestothe | 0.0000	False
+--------------------------------------------------------------------------------
+[425/500] Train loss: 2.11601, Valid loss: 3.96542, Elapsed_time: 6718.78660
+Current_accuracy : 1.465, Current_norm_ED  : 0.24
+Best_accuracy    : 1.652, Best_norm_ED     : 0.25
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+techniquesintheoutdoorsmentallydisturbedinformal | beinghisingordentishorthereally | 0.0000	False
+centurybuttheuseofachinaorangeto17thcentury | theseeportofullingordersomeonestracestorthereally | 0.0000	False
+1982robertsondaviestherebelangelsishallquivive | withouthereasonthesomeonestracesomeonestracesomeonestracesomeonestracesomeonestracesomeonestracesomeonestracesomeonestracesomeonestracesomeonestracesomeonestrac | 0.0000	False
+unguardedtocareandshewouldspeakher | angundersomeonestracesomeonestorthereally | 0.0000	False
+sheeatethnotthebreadofidlenessbreakrankseerank | theseeporthereally        | 0.0000	False
+--------------------------------------------------------------------------------
+[430/500] Train loss: 2.12931, Valid loss: 3.80757, Elapsed_time: 6792.73549
+Current_accuracy : 1.527, Current_norm_ED  : 0.25
+Best_accuracy    : 1.652, Best_norm_ED     : 0.25
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+thisisamaximassociatedwithanumberrepairs | theseepersonseesed        | 0.0000	False
+apprehendsomeone          | apprehendsomeone          | 0.9752	True
+matchanothersmadnessyetthereismethodint | substimethereadereders    | 0.0000	False
+thewhitemansburdencomesfrombumprudyardkiplingspoemofthattitle1899 | theirmandersomethingthemandsomeonestrangersomethingthe | 0.0000	False
+strikewhiletheironishotraiseyoursights | theseepersonseesed        | 0.0000	False
+--------------------------------------------------------------------------------
+[435/500] Train loss: 2.13256, Valid loss: 3.93828, Elapsed_time: 6858.59075
+Current_accuracy : 1.652, Current_norm_ED  : 0.24
+Best_accuracy    : 1.652, Best_norm_ED     : 0.25
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+burnttoacinderseeburntdropaclangerseedropcircleclap | betomethingstatesomeonestonethereasonthesomeonestransellandsomeonestransellandsomeonestransellandsomeonestransellandsomeonestransellandsomeonestransellandsomeon | 0.0000	False
+youdomeafavouriwillreturnitproverb | theseeportheristheretorethereally | 0.0000	False
+oracceptachallenge        | oracceptachalenge         | 0.0234	False
+standorstickoutlikeasorethumbbevery | theseeportheristheretorethereally | 0.0000	False
+knowlittleornothingandcareless | theseeportheristherestratedinthesomeonestracestortherestratedinthesomeonestracestortherestratedinthesomeonestracestortherestratedinthesomeonestracestortherestra | 0.0000	False
+--------------------------------------------------------------------------------
+[440/500] Train loss: 2.13401, Valid loss: 3.87543, Elapsed_time: 6939.55172
+Current_accuracy : 1.662, Current_norm_ED  : 0.25
+Best_accuracy    : 1.662, Best_norm_ED     : 0.25
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+willrolltheysay           | willrolltheysay           | 0.4840	True
+ahillofbeansbeatyourbreastseebreast | addistheconstothereasonthesomeonestothesomeonestousedtood | 0.0000	False
+intelligencewithachallengetoputuporpyrrhuswasakingofepiruswhoshutup | someonestothereasthereallyourseeformal | 0.0000	False
+0usedhumorouslytoshowthatyouhavehadtherichardbeirreparably | intermallyourseeporthereallyourseeformal | 0.0000	False
+partyitsfounderspromotedthepartyasboastfullywithoutanyintentionofacting | thesendersomethingstatesomeonestonethemandsomeonestonethemandsomeonestonethemandsomeonestonethemandsomeonestonethemandsomeonestonethemandsomeonestonethemandsome | 0.0000	False
+--------------------------------------------------------------------------------
+[445/500] Train loss: 2.09908, Valid loss: 3.79636, Elapsed_time: 7017.17672
+Current_accuracy : 1.610, Current_norm_ED  : 0.26
+Best_accuracy    : 1.662, Best_norm_ED     : 0.26
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+fightsbegunandwevegottorallyaroundexperienceespeciallythatofseductionor | theseepersonestrangereallyourseeformal | 0.0000	False
+lnboxingafighterwinsonpointsbypony | abourseffleentoryour      | 0.0000	False
+orshowexcitementorenthusiasmusofthetempleinjerusalemasumwhich | offerenthereallyourseeformal | 0.0000	False
+powderdryfortheimportantthingsnew | andertiffermentorputtingthe | 0.0000	False
+exceptionprovedtheexistenceofarulebutsituationfunctioningnormallyaftera | someonestrangereallyourseeformal | 0.0000	False
+--------------------------------------------------------------------------------
+[450/500] Train loss: 2.11957, Valid loss: 3.95117, Elapsed_time: 7083.74442
+Current_accuracy : 1.714, Current_norm_ED  : 0.23
+Best_accuracy    : 1.714, Best_norm_ED     : 0.26
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nowbeensupersededbythecurrentformprestigiouspartoftowninformal | theseemandering           | 0.0000	False
+deceitfullyhumorousfoundingfathersusedinparticularofanj | theseeporthereasonsomeonestransestrackingof | 0.0000	False
+swindlinginformalthereferenceinthisphraseistoarticlevj | somethingofacestorthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearthereartherearth | 0.0000	False
+apersonorcompanyperformingatanspitanticipatedrateorlevelofaperson | seecondingordenthereseecesseepardingofformal | 0.0000	False
+87duck                    | 87duck                    | 0.9179	True
+--------------------------------------------------------------------------------
+[455/500] Train loss: 2.13215, Valid loss: 3.83697, Elapsed_time: 7173.04333
+Current_accuracy : 1.590, Current_norm_ED  : 0.25
+Best_accuracy    : 1.714, Best_norm_ED     : 0.26
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+orremainpracticalandsensibleoccupation | intorcomeshereardsomeonestonethereallyour | 0.0000	False
+anythingtodowithsomethingthatshouldbepsychologicallycapableofdoing | theseeporthereallyourseeformal | 0.0000	False
+playyouraceseeaceproceedinstinctivelyaccordingto | shiggyourseasestothereally | 0.0000	False
+19thcenturyandthephraseonspecitselftemptationandfailstoliveuptothem | theseeporthereally        | 0.0000	False
+aplankandthickasabrickthereisaplayonj | theseeporthereally        | 0.0000	False
+--------------------------------------------------------------------------------
+[460/500] Train loss: 2.11109, Valid loss: 3.78547, Elapsed_time: 7243.97946
+Current_accuracy : 1.662, Current_norm_ED  : 0.23
+Best_accuracy    : 1.714, Best_norm_ED     : 0.26
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+plainplainasdayorthenoseonyourfacevery | theseepersonesseesed      | 0.0000	False
+acrosspersonneltogototheirallocatedpositions | someonespeciallyourseeformal | 0.0000	False
+fortificationsmadebyenemygunsor | forstickingor             | 0.0000	False
+scoutshonourusedtoindicatethatyouthingconcealed | theseepersonseeseeseesee  | 0.0000	False
+vivacityandsociabilitymakesapartylightofnewresearchcommissionedbythe | somethingsomeonestrangersomeonestrangersomeonestrangersomeonestrangersomeonestrangersomeonestrangersomeonestrangersomeonestrangersomeonestrangersomeonestrangers | 0.0000	False
+--------------------------------------------------------------------------------
+[465/500] Train loss: 2.14703, Valid loss: 3.89139, Elapsed_time: 7317.09718
+Current_accuracy : 1.745, Current_norm_ED  : 0.24
+Best_accuracy    : 1.745, Best_norm_ED     : 0.26
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+separatethemenfromtheboysseemansettlesomeoneshashseehash | appressionandisthemainstothereasthereallyourseeformal | 0.0000	False
+princeorprincessofthebloodamanor | proversingordersonsentionsomeonestrangersonesseeparting | 0.0000	False
+othisexpressionhasbeenexplainedingreenaboutthegillsseegreen | theseepersonseethereasonthereseesed | 0.0000	False
+positionswhoareableandwillingtousefreezetheirinfluenceonyourbehalf | someonestransedingersonsenthereallyourseeformal | 0.0000	False
+cookson1999linedancerourindustrymustexpand | theseeporthereallyourseeformal | 0.0000	False
+--------------------------------------------------------------------------------
+[470/500] Train loss: 2.11605, Valid loss: 3.82339, Elapsed_time: 7397.24303
+Current_accuracy : 1.745, Current_norm_ED  : 0.26
+Best_accuracy    : 1.745, Best_norm_ED     : 0.26
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+horsegraspsthebitbetweenitsteethitcan | theseepersonseethereally  | 0.0000	False
+thefactthathermurderisofficiallythewidowtowhomelijahwassentfor | theparticessionand        | 0.0000	False
+enemiesicantmakeheadortailofit | themaresomeonestothereasthereallyourseethereasthereally | 0.0000	False
+eponymousjackrobinsonshedanylightonamtomorrowapleasantthingwhichis | themaresomeonestracestorthereally | 0.0000	False
+1996wanderlustthisisaseriousjacketwith | compartingordersomeonestracestorthereally | 0.0000	False
+--------------------------------------------------------------------------------
+[475/500] Train loss: 2.10412, Valid loss: 3.90906, Elapsed_time: 7465.02139
+Current_accuracy : 1.714, Current_norm_ED  : 0.26
+Best_accuracy    : 1.745, Best_norm_ED     : 0.26
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+uphisloinsandranbeforeahabtotheoinintheprocession | someonestrangersonetherisinallywithsomeonestonethereally | 0.0000	False
+thesixtyfourthousanddollarquestion | thesonthyourthesoneoroformalisa | 0.0000	False
+closeorshutyoureyestorefusetonoticehadeyesinthebackofherheadandtheyhalf | someonesteringersenseesofthesomeonesteringersenseesofthesomeonesteringersenseesofthesomeonesteringersenseesofthesomeonesteringersenseesofthesomeonesteringersens | 0.0000	False
+takethequotestheyseewithapinchofsalt | beatherestrepersonesseeseeformal | 0.0000	False
+onsomeoneorsomethingkeepsomeoneinthedarkensurethat | andingortheretorethereally | 0.0000	False
+--------------------------------------------------------------------------------
+[480/500] Train loss: 2.11501, Valid loss: 3.83135, Elapsed_time: 7532.88677
+Current_accuracy : 1.797, Current_norm_ED  : 0.26
+Best_accuracy    : 1.797, Best_norm_ED     : 0.26
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+1998newscientistbutwhatifinsteadofone | proversinformal           | 0.0000	False
+experiencedsomeonesearsareburningsomeoneis | appresentinessigntation   | 0.0000	False
+centurymakeitclearthatitcomesfromthetake | washangunderstandersomething | 0.0000	False
+eventsetcdontgetmadgetevenusedtoadvisein | werestrentingtheseethereally | 0.0000	False
+standonyourdignityinsistonbeingtreatedwithduerespectdinner | 1998therethereally        | 0.0000	False
+--------------------------------------------------------------------------------
+[485/500] Train loss: 2.12113, Valid loss: 3.95593, Elapsed_time: 7595.14716
+Current_accuracy : 1.569, Current_norm_ED  : 0.24
+Best_accuracy    : 1.797, Best_norm_ED     : 0.26
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+theruneswereanancientgermanicthisisametaphorfromhorseridingin | andintormal               | 0.0000	False
+talkabluestreakspeakcontinuouslyandat | 1998thereasedingofactiontheseeseofthesomeonestrangersomeonestothereasofthesomeonestrangersomeonestothereasofthesomeonestrangersomeonestothereasofthesomeonestran | 0.0000	False
+inpicklemeanspreservedreadyfor | inportermasspressionally  | 0.0000	False
+thelaststrawseestrawcontemptasbeingobviouslyridiculous | thebestorthereasingordandandinthesomeonestransedinthesomeonestransedinthesomeonestransedinthesomeonestransedinthesomeonestransedinthesomeonestransedinthesomeone | 0.0000	False
+1992womanthisweekstopwishingyouwerewakesomehowdifferentstarttowalktall | someonestransedinthesomeonestothereasthereasthereasthereasthereasthereasthereasthereasthereasthereasthereasthereasthereasthereasthereasthereasthereasthereasther | 0.0000	False
+--------------------------------------------------------------------------------
+[490/500] Train loss: 2.13547, Valid loss: 3.85053, Elapsed_time: 7675.57969
+Current_accuracy : 1.714, Current_norm_ED  : 0.26
+Best_accuracy    : 1.797, Best_norm_ED     : 0.26
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+aconspiracyofsilenceanagreementtosaycourage | thesendersomeonestothereasthereally | 0.0000	False
+chickenactinginapanicstrickenmannercharacterinformal | thesendersomeonestrangersomeonestothereasonsomeonestonethemanderstonethereally | 0.0000	False
+previouswayofdoingthingsnotalwaysusedinconnectionwithsomeone | thesendersomething        | 0.0000	False
+makesomeonestoescurlbringaboutan | thesendersomeonestransedingersensed | 0.0000	False
+somethingwaxingandwaning  | thesendersomeonestransedingersensed | 0.0000	False
+--------------------------------------------------------------------------------
+[495/500] Train loss: 2.12749, Valid loss: 3.74609, Elapsed_time: 7744.53451
+Current_accuracy : 1.766, Current_norm_ED  : 0.26
+Best_accuracy    : 1.797, Best_norm_ED     : 0.26
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+oearlyinstancesofthisexpressionsuggestfollowsuitqinbridgewhistandother | thesendersomeonestrangersomeonestotherearthereally | 0.0000	False
+dogsofwarqthehavocaccompanying | thesendersomeonestrangersomeonestrangersomeonestrangersomeonestrangersomeonestrangersomeonestrangersomeonestrangersomeonestrangersomeonestrangersomeonestrangers | 0.0000	False
+gonativeofapersonlivingawayfromtheir | thesendersomeonestrangenthereallyourseeformal | 0.0000	False
+stewstewinyourownjuicesuffertheunpleasant | thesendersomeonestrangenthereally | 0.0000	False
+harnessdrawingaploughorcartdifferentthingspleaseorareeffectivewith | someonestreatingtheseepersonestrangersomeonestothereasedingofandingthesomeonestothereasedingofandingthesomeonestothereasedingofandingthesomeonestothereasedingof | 0.0000	False
+--------------------------------------------------------------------------------
+[500/500] Train loss: 2.11670, Valid loss: 3.99173, Elapsed_time: 7814.89020
+Current_accuracy : 1.683, Current_norm_ED  : 0.23
+Best_accuracy    : 1.797, Best_norm_ED     : 0.26
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+infrontoftheothersense1preservesthisthecarpetitreferstothecoveringofthe | theseeporthereasofthesomeonesomeonesomeonesomeonesomeonesomeonesomeonesomeonesomeonesomeonesomeonesomeonesomeonesomeonesomeonesomeonesomeonesomeonesomeonesomeon | 0.0000	False
+oasimilarassociationbetweenbarking | olasonsomeatishitshitsablethering | 0.0000	False
+millstoneanotheristhatprintershadtobeverycarefulj | assomeonestothereasonthebeenedingofandingordersomeonestothereasonthesomeonesomeonesomeonesomeonesomeonesomeonesomeonesomeonesomeonesomeonesomeonesomeonesomeones | 0.0000	False
+extendedtomeanatermofimprisonment | oversidethemaninformal    | 0.0000	False
+1991nationheproudlyproclaimsthattoday | 19988theseeportherestotherightsandofthesomeonestothereasonthesomeonestothereallyourofthesomeonestothereallyourofthesomeonestothereallyourofthesomeonestothereall | 0.0000	False
+--------------------------------------------------------------------------------
