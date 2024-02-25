@@ -23,10 +23,10 @@ def download_and_replace_output(repo_url, branch, output_dir):
         # Full clone of the repository
         git.Repo.clone_from(repo_url, repo_dir, branch=branch)
 
-        # Delete all files except the "output3/en" directory
+        # Delete all files except the "output4/en" directory
         for item in os.listdir(repo_dir):
             if item not in (
-                "output3",
+                "output4",
                 ".git",
             ):  # Keep the 'output' folder and '.git' for tracking
                 path = os.path.join(repo_dir, item)
@@ -38,7 +38,7 @@ def download_and_replace_output(repo_url, branch, output_dir):
         # Replace the local 'output' directory
         if os.path.exists(output_dir):
             shutil.rmtree(output_dir)
-        shutil.copytree(os.path.join(repo_dir, "output3/en"), output_dir)
+        shutil.copytree(os.path.join(repo_dir, "output4/en"), output_dir)
 
         logging.info(f"Output directory updated from the repository")
 
@@ -53,6 +53,6 @@ def download_and_replace_output(repo_url, branch, output_dir):
 if __name__ == "__main__":
     repo_url = "https://github.com/ThaiLe1220/TextRecognitionDataGenerator.git"
     branch = "master"
-    output_dir = "output/en"
+    output_dir = "output4/en"
 
     download_and_replace_output(repo_url, branch, output_dir)

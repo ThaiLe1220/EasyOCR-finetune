@@ -1,5 +1,6 @@
-python create_lmdb_dataset.py . output3/en/labels.txt lmdb_output
+python update_training_data.py 
 
+python create_lmdb_dataset.py . output4/en/labels.txt lmdb_output
 
 python train.py --train_data lmdb_output --valid_data lmdb_output --select_data "/" --batch_ratio 1.0 --Transformation TPS --FeatureExtraction ResNet --SequenceModeling BiLSTM --Prediction Attn --batch_size 64 --data_filtering_off --workers 4 --batch_max_length 300 --num_iter 100 --valInterval 5 --saved_model TPS-ResNet-BiLSTM-Attn.pth
 
